@@ -1,7 +1,7 @@
 Developer-Conferences
 =====================
 
-This repo tracks upcoming developer conferences. To add a conference to this list, please submit an issue or a pull request. 
+This repo tracks upcoming developer conferences. To add a conference to this list, please [submit an issue](https://github.com/MurtzaM/Developer-Conferences/issues/new) or a pull request. 
 
 
 
