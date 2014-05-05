@@ -9,6 +9,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | -------------------------------------------------------------- |:-------------:| ---------------------:|
 | [Gluecon](http://www.gluecon.com/2014/)                        | Broomfield, CO  | 05/21/14 - 05/22/14 |
 | [WWDC](https://developer.apple.com/wwdc/)                      | San Francisco   | 06/02/14 - 06/06/14 |
+| [APIdays SF](http://sf.apidays.io/)                            | San Francisco   | 06/13/14 - 06/15/14 |
 | [Google I/O](https://www.google.com/events/io)                 | San Francisco   | 06/26/14 - 06/27/14 |
 | [OSCON](http://www.oscon.com/oscon2014)                        | Portland        | 07/20/14 - 07/24/14 |
 | [Disrupt SF](http://techcrunch.com/events/disrupt-sf/tickets/) | San Francisco   | 09/08/14 - 09/10/14 |
