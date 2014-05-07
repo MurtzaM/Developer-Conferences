@@ -15,6 +15,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [OSCON](http://www.oscon.com/oscon2014)                        | Portland        | 07/20/14 - 07/24/14 |
 | [Disrupt SF](http://techcrunch.com/events/disrupt-sf/tickets/) | San Francisco   | 09/08/14 - 09/10/14 |
 | [API World](http://apiworld.co/)                               | San Francisco   | 09/16/14 - 09/17/14 |
+| [Designer of Things](http://www.designersofthings.com/sanfrancisco/) | San Francisco         | 09/23/14 - 09/24/14 |
 | [API Strategy](http://apistrategyconference.com/)              | Chicago         | 09/24/14 - 09/25/14 |
 | [Dreamforce](http://www.salesforce.com/dreamforce/DF14/)       | San Francisco   | 10/13/14 - 10/16/14 |
 | [HTML5DevConf](http://html5devconf.com/)                       | San Francisco   | 10/20/14 - 10/21/14 |
