@@ -8,6 +8,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | Conference Name                                                | Location      | Date                  |
 | -------------------------------------------------------------- |:-------------:| ---------------------:|
 | [Cisco Live](http://www.ciscolive.com/us/)                     | San Francisco   | 05/18/14 - 05/22/14 |
+| [php[tek]](http://www.ciscolive.com/us/)                     | Chicago         | 05/19/14 - 05/23/14 |
 | [Gluecon](http://www.gluecon.com/2014/)                        | Broomfield, CO  | 05/21/14 - 05/22/14 |
 | [WWDC](https://developer.apple.com/wwdc/)                      | San Francisco   | 06/02/14 - 06/06/14 |
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | New York City   | 06/10/14 - 06/12/14 |
