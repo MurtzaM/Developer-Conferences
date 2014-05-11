@@ -5,12 +5,12 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 
 
 
-| Conference Name                                                | Location      | Date                  |
-| -------------------------------------------------------------- |:-------------:| ---------------------:|
-| [Cisco Live](http://www.ciscolive.com/us/)                     | San Francisco   | 05/18/14 - 05/22/14 |
-| [php[tek]](http://tek.phparch.com/)                            | Chicago         | 05/19/14 - 05/23/14 |
-| [Gluecon](http://www.gluecon.com/2014/)                        | Broomfield, CO  | 05/21/14 - 05/22/14 |
-| [WWDC](https://developer.apple.com/wwdc/)                      | San Francisco   | 06/02/14 - 06/06/14 |
+| Conference Name                                                | Location        | Date                  | Hash Tag    |
+| -------------------------------------------------------------- |:-------------:  | :---------------------:| ----------:| 
+| [Cisco Live](http://www.ciscolive.com/us/)                     | San Francisco   | 05/18/14 - 05/22/14 | [#CLUS](https://twitter.com/search?f=realtime&q=%23CLUS) |
+| [php[tek]](http://tek.phparch.com/)                            | Chicago         | 05/19/14 - 05/23/14 | [#phptek](https://twitter.com/search?f=realtime&q=%23phptek)  |
+| [Gluecon](http://www.gluecon.com/2014/)                        | Broomfield, CO  | 05/21/14 - 05/22/14 | [#gluecon](https://twitter.com/search?f=realtime&q=gluecon)   |
+| [WWDC](https://developer.apple.com/wwdc/)                      | San Francisco   | 06/02/14 - 06/06/14 | [#WWDC](https://twitter.com/search?f=realtime&q=%23WWDC)   |         
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | New York City   | 06/10/14 - 06/12/14 |
 | [APIdays SF](http://sf.apidays.io/)                            | San Francisco   | 06/13/14 - 06/15/14 |
 | [Google I/O](https://www.google.com/events/io)                 | San Francisco   | 06/26/14 - 06/27/14 |
