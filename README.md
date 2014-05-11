@@ -11,9 +11,9 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [php[tek]](http://tek.phparch.com/)                            | Chicago         | 05/19/14 - 05/23/14 | [#phptek](https://twitter.com/search?f=realtime&q=%23phptek)  |
 | [Gluecon](http://www.gluecon.com/2014/)                        | Broomfield, CO  | 05/21/14 - 05/22/14 | [#gluecon](https://twitter.com/search?f=realtime&q=gluecon)   |
 | [WWDC](https://developer.apple.com/wwdc/)                      | San Francisco   | 06/02/14 - 06/06/14 | [#WWDC](https://twitter.com/search?f=realtime&q=%23WWDC)   |         
-| [Cloud Expo](http://www.cloudcomputingexpo.com/)               | New York City   | 06/10/14 - 06/12/14 |
-| [APIdays SF](http://sf.apidays.io/)                            | San Francisco   | 06/13/14 - 06/15/14 |
-| [Google I/O](https://www.google.com/events/io)                 | San Francisco   | 06/26/14 - 06/27/14 |
+| [Cloud Expo](http://www.cloudcomputingexpo.com/)               | New York City   | 06/10/14 - 06/12/14 | [#CloudExpo](https://twitter.com/search?f=realtime&q=%23cloudexpo) |
+| [APIdays SF](http://sf.apidays.io/)                            | San Francisco   | 06/13/14 - 06/15/14 | [#APIdays](https://twitter.com/search?f=realtime&q=%23apidays)     |
+| [Google I/O](https://www.google.com/events/io)                 | San Francisco   | 06/26/14 - 06/27/14 | [#io14](https://twitter.com/search?q=%23io14), [#GoogleIO](https://twitter.com/search?f=realtime&q=%23googleio)  |
 | [OSCON](http://www.oscon.com/oscon2014)                        | Portland        | 07/20/14 - 07/24/14 |
 | [Disrupt SF](http://techcrunch.com/events/disrupt-sf/tickets/) | San Francisco   | 09/08/14 - 09/10/14 |
 | [API World](http://apiworld.co/)                               | San Francisco   | 09/16/14 - 09/17/14 |
