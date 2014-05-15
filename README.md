@@ -27,6 +27,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [API World](http://apiworld.co/)                               | San Francisco   | 09/16/14 - 09/17/14 |
 | [Strange Loop](https://thestrangeloop.com/)                    | St. Louis       | 09/17/14 - 09/19/14 |
 | [Uplinq](http://www.qualcomm.com/uplinq)                       | San Francisco   | 09/18/14 - 09/19/14 |
+| [Hackference](http://2014.hackference.co.uk/)                       | Birmingham, UK   | 09/19/14 - 09/21/14 |
 | [Designer of Things](http://www.designersofthings.com/sanfrancisco/) | San Francisco         | 09/23/14 - 09/24/14 |
 | [API Strategy](http://apistrategyconference.com/)              | Chicago         | 09/24/14 - 09/25/14 |
 | [REST FEST](http://www.restfest.org/)                          | Greenville, SC  | 09/25/14 - 09/27/14 |
