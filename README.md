@@ -39,6 +39,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | Santa Clara     | 11/04/14 - 11/06/14 |
 | [AWS re:Invent](https://reinvent.awsevents.com/)               | Las Vegas       | 11/11/14 - 11/14/14 |
 | [SXSW](http://sxsw.com/)                                       | Austin          | 03/13/15 - 03/17/15 |
+| [Magento Imagine](http://www.imagineecommerce.com/)            | Las Vegas          | 04/20/15 - 04/22/15 |
 | [Facebook F8](https://www.facebook.com/f8)                     | San Francisco   | 05/05/2015          |
 
 
