@@ -19,6 +19,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | New York City   | 06/10/14 - 06/12/14 | [#CloudExpo](https://twitter.com/search?f=realtime&q=%23cloudexpo) |
 | [Telecom APIs](http://telecomapis.com/)                        | Munich          | 06/10/14 - 06/12/14 | [#TelcoAPI](https://twitter.com/search?f=realtime&q=%23telcoapi) |
 | [APIdays SF](http://sf.apidays.io/)                            | San Francisco   | 06/13/14 - 06/15/14 | [#APIdays](https://twitter.com/search?f=realtime&q=%23apidays)     |
+| [O'Reilly Velocity](http://velocityconf.com/velocity2014)      | Santa Clara, CA | 06/24/14 - 06/26/14 | [#velocityconf](https://twitter.com/search?f=realtime&q=%23velocityconf)     |
 | [Google I/O](https://www.google.com/events/io)                 | San Francisco   | 06/26/14 - 06/27/14 | [#io14](https://twitter.com/search?q=%23io14), [#GoogleIO](https://twitter.com/search?f=realtime&q=%23googleio)  |
 | [OSCON](http://www.oscon.com/oscon2014)                        | Portland        | 07/20/14 - 07/24/14 | [#OSCON](https://twitter.com/search?f=realtime&q=%23oscon)         |
 | [API-Craft](http://api-craft.org/)                             | Detroit         | 07/28/14 - 07/30/14 | [#APICraft](https://twitter.com/search?f=realtime&q=%23apicraft)         |
