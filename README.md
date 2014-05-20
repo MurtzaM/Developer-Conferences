@@ -14,6 +14,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [JSConf](http://2014.jsconf.us/)                               | Amelia Island, FL | 05/28/14 - 05/30/14 | [#JSConf](https://twitter.com/search?f=realtime&q=%23jsconf)   |
 | [APIcon](http://www.apiconsf.com/)                             | San Francisco   | 05/27/14 - 05/29/14 | [#APIConSF](https://twitter.com/search?f=realtime&q=%23apiconsf)   |
 | [APIdays](http://mediterranea.apidays.io/)                     | Barcelona       | 05/29/14 - 05/30/14 | [#APIdays](https://twitter.com/search?f=realtime&q=%23apidays)   |
+| [IBM Innovate](http://www-01.ibm.com/software/rational/innovate/)   | Orlando, FL       | 06/01/14 - 06/05/14 | [#IBMinnovate](https://twitter.com/search?f=realtime&q=%23ibminnovate)   |
 | [Tizen Dev Conf](https://www.tizen.org/events/tizen-developer-conference/2014)   | San Francisco       | 06/02/14 - 06/04/14 | [#TDCSF14](https://twitter.com/search?f=realtime&q=%23tdcsf14)   |
 | [WWDC](https://developer.apple.com/wwdc/)                      | San Francisco   | 06/02/14 - 06/06/14 | [#WWDC](https://twitter.com/search?f=realtime&q=%23WWDC)   |         
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | New York City   | 06/10/14 - 06/12/14 | [#CloudExpo](https://twitter.com/search?f=realtime&q=%23cloudexpo) |
