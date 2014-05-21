@@ -26,6 +26,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [OSCON](http://www.oscon.com/oscon2014)                        | Portland        | 07/20/14 - 07/24/14 | [#OSCON](https://twitter.com/search?f=realtime&q=%23oscon)         |
 | [API-Craft](http://api-craft.org/)                             | Detroit         | 07/28/14 - 07/30/14 | [#APICraft](https://twitter.com/search?f=realtime&q=%23apicraft)         |
 | [DeveloperWeek](http://seattle.developerweek.com/)             | Seattle         | 07/28/14 - 08/01/14 | [#DevWeek](https://twitter.com/search?f=realtime&q=%23devweek)         |
+| [I Love APIs](https://pages.apigee.com/i-love-apis-2014.html)  | San Francisco   | 09/08/14 - 09/10/14 | [#iloveapis](https://twitter.com/search?f=realtime&q=%23iloveapis)         |
 | [Disrupt SF](http://techcrunch.com/events/disrupt-sf/tickets/) | San Francisco   | 09/08/14 - 09/10/14 |
 | [API World](http://apiworld.co/)                               | San Francisco   | 09/16/14 - 09/17/14 |
 | [Strange Loop](https://thestrangeloop.com/)                    | St. Louis       | 09/17/14 - 09/19/14 |
