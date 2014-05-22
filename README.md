@@ -8,7 +8,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | Conference Name                                                | Location        | Date                  | Hash Tag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
 | [~~TomTom Dev Conf~~](http://business.tomtom.com/en_gb/landingpages/developer-conference-2014/) | ~~Amsterdam~~   | ~~05/15/14~~ | [~~#TTDC~~](https://twitter.com/search?f=realtime&q=%23ttdc) |
-| [Cisco Live](http://www.ciscolive.com/us/)                     | San Francisco   | 05/18/14 - 05/22/14 | [#CLUS](https://twitter.com/search?f=realtime&q=%23CLUS) |
+| [~~Cisco Live~~](http://www.ciscolive.com/us/)                  | ~~San Francisco~~   | ~~05/18/14 - 05/22/14~~ | [~~#CLUS~~](https://twitter.com/search?f=realtime&q=%23CLUS) |
 | [php[tek]](http://tek.phparch.com/)                            | Chicago         | 05/19/14 - 05/23/14 | [#phptek](https://twitter.com/search?f=realtime&q=%23phptek)  |
 | [Gluecon](http://www.gluecon.com/2014/)                        | Broomfield, CO  | 05/21/14 - 05/22/14 | [#gluecon](https://twitter.com/search?f=realtime&q=gluecon)   |
 | [DConf](http://dconf.org/2014/index.html)                      | Menlo Park, CA  | 05/21/14 - 05/23/14 | [#dconf, #dlang](https://twitter.com/search?q=%23dconf+%23dlang)   |
