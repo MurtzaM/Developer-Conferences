@@ -9,9 +9,9 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
 | [~~TomTom Dev Conf~~](http://business.tomtom.com/en_gb/landingpages/developer-conference-2014/) | ~~Amsterdam~~   | ~~05/15/14~~ | [~~#TTDC~~](https://twitter.com/search?f=realtime&q=%23ttdc) |
 | [~~Cisco Live~~](http://www.ciscolive.com/us/)                  | ~~San Francisco~~   | ~~05/18/14 - 05/22/14~~ | [~~#CLUS~~](https://twitter.com/search?f=realtime&q=%23CLUS) |
-| [php[tek]](http://tek.phparch.com/)                            | Chicago         | 05/19/14 - 05/23/14 | [#phptek](https://twitter.com/search?f=realtime&q=%23phptek)  |
+| [~~php[tek]~~](http://tek.phparch.com/)                            | ~~Chicago~~         | 05/19/14 - 05/23/14 | [~~#phptek~~](https://twitter.com/search?f=realtime&q=%23phptek)  |
 | [~~Gluecon~~](http://www.gluecon.com/2014/)                    | ~~Broomfield, CO~~  | ~~05/21/14 - 05/22/14~~ | [~~#gluecon~~](https://twitter.com/search?f=realtime&q=gluecon)   |
-| [DConf](http://dconf.org/2014/index.html)                      | Menlo Park, CA  | 05/21/14 - 05/23/14 | [#dconf, #dlang](https://twitter.com/search?q=%23dconf+%23dlang)   |
+| [~~DConf~~](http://dconf.org/2014/index.html)                      | ~~Menlo Park, CA~~  | ~~05/21/14 - 05/23/14~~ | [~~#dconf, #dlang~~](https://twitter.com/search?q=%23dconf+%23dlang)   |
 | [JSConf](http://2014.jsconf.us/)                               | Amelia Island, FL | 05/28/14 - 05/30/14 | [#JSConf](https://twitter.com/search?f=realtime&q=%23jsconf)   |
 | [APIcon](http://www.apiconsf.com/)                             | San Francisco   | 05/27/14 - 05/29/14 | [#APIConSF](https://twitter.com/search?f=realtime&q=%23apiconsf)   |
 | [APIdays](http://mediterranea.apidays.io/)                     | Barcelona       | 05/29/14 - 05/30/14 | [#APIdays](https://twitter.com/search?f=realtime&q=%23apidays)   |
