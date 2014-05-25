@@ -19,6 +19,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Tizen Dev Conf](https://www.tizen.org/events/tizen-developer-conference/2014)   | San Francisco       | 06/02/14 - 06/04/14 | [#TDCSF14](https://twitter.com/search?f=realtime&q=%23tdcsf14)   |
 | [WWDC](https://developer.apple.com/wwdc/)                      | San Francisco   | 06/02/14 - 06/06/14 | [#WWDC](https://twitter.com/search?f=realtime&q=%23WWDC)   |         
 | [GLAZEDcon](http://glazedcon.com/)                      | San Francisco   | 06/03/14 - 06/04/14 | [#glazedcon](https://twitter.com/search?f=realtime&q=%23glazedcon)   |         
+| [dockercon](http://www.dockercon.com/)                         | San Francisco   | 06/09/14 - 06/10/14 | [#dockercon](https://twitter.com/search?f=realtime&q=%23dockercon)   |
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | New York City   | 06/10/14 - 06/12/14 | [#CloudExpo](https://twitter.com/search?f=realtime&q=%23cloudexpo) |
 | [Telecom APIs](http://telecomapis.com/)                        | Munich          | 06/10/14 - 06/12/14 | [#TelcoAPI](https://twitter.com/search?f=realtime&q=%23telcoapi) |
 | [APIdays SF](http://sf.apidays.io/)                            | San Francisco   | 06/13/14 - 06/15/14 | [#APIdays](https://twitter.com/search?f=realtime&q=%23apidays)     |
