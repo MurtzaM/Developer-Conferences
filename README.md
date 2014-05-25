@@ -37,14 +37,17 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Uplinq](http://www.qualcomm.com/uplinq)                       | San Francisco   | 09/18/14 - 09/19/14 |
 | [Hackference](http://2014.hackference.co.uk/)                       | Birmingham, UK   | 09/19/14 - 09/21/14 |
 | [Designer of Things](http://www.designersofthings.com/sanfrancisco/) | San Francisco         | 09/23/14 - 09/24/14 |
+| [GOTO Copenhagen](http://gotocon.com/cph-2014)                 | Copenhagen      | 09/23/14 - 09/26/14 |
 | [API Strategy](http://apistrategyconference.com/)              | Chicago         | 09/24/14 - 09/25/14 |
 | [REST FEST](http://www.restfest.org/)                          | Greenville, SC  | 09/25/14 - 09/27/14 |
 | [xda:devcon](http://xda-devcon.com/)                           | Manchester, UK  | 09/26/14 - 09/28/14 |
+| [GOTO Aarhus](http://gotocon.com/aarhus-2014/)                 | Aarhus, Denmark | 09/29/14 - 10/02/14 |
 | [Splunk .conf2014](http://conf.splunk.com/)                           | Las Vegas       | 10/06/14 - 10/09/14 |
 | [Dreamforce](http://www.salesforce.com/dreamforce/DF14/)       | San Francisco   | 10/13/14 - 10/16/14 |
 | [HTML5DevConf](http://html5devconf.com/)                       | San Francisco   | 10/20/14 - 10/21/14 |
 | [GDC Next](http://www.gdcnext.com/)                            | Los Angeles     | 11/03/14 - 11/04/14 |
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | Santa Clara     | 11/04/14 - 11/06/14 |
+| [GOTO Berlin](http://gotocon.com/berlin-2014)                  | Berlin          | 11/05/14 - 11/07/14 |
 | [AWS re:Invent](https://reinvent.awsevents.com/)               | Las Vegas       | 11/11/14 - 11/14/14 |
 | [SXSW](http://sxsw.com/)                                       | Austin          | 03/13/15 - 03/17/15 |
 | [Magento Imagine](http://www.imagineecommerce.com/)            | Las Vegas          | 04/20/15 - 04/22/15 |
