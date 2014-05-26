@@ -19,6 +19,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Tizen Dev Conf](https://www.tizen.org/events/tizen-developer-conference/2014)   | San Francisco       | 06/02/14 - 06/04/14 | [#TDCSF14](https://twitter.com/search?f=realtime&q=%23tdcsf14)   |
 | [WWDC](https://developer.apple.com/wwdc/)                      | San Francisco   | 06/02/14 - 06/06/14 | [#WWDC](https://twitter.com/search?f=realtime&q=%23WWDC)   |         
 | [GLAZEDcon](http://glazedcon.com/)                      | San Francisco   | 06/03/14 - 06/04/14 | [#glazedcon](https://twitter.com/search?f=realtime&q=%23glazedcon)   |         
+| [Cloud Foundry](http://cfsummit.com/)                      | San Francisco   | 06/09/14 - 06/11/14 | [#CFSummit](https://twitter.com/search?f=realtime&q=%23cfsummit)   |         
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | New York City   | 06/10/14 - 06/12/14 | [#CloudExpo](https://twitter.com/search?f=realtime&q=%23cloudexpo) |
 | [Telecom APIs](http://telecomapis.com/)                        | Munich          | 06/10/14 - 06/12/14 | [#TelcoAPI](https://twitter.com/search?f=realtime&q=%23telcoapi) |
 | [APIdays SF](http://sf.apidays.io/)                            | San Francisco   | 06/13/14 - 06/15/14 | [#APIdays](https://twitter.com/search?f=realtime&q=%23apidays)     |
@@ -32,6 +33,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [DeveloperWeek](http://seattle.developerweek.com/)             | Seattle         | 07/28/14 - 08/01/14 | [#DevWeek](https://twitter.com/search?f=realtime&q=%23devweek)         |
 | [WindyCityRails](http://www.windycityrails.org/)              | Chicago         | 09/04/14 - 09/05/14 | [#WindyCityRails](https://twitter.com/search?f=realtime&q=%23WindyCityRails)         |
 | [I Love APIs](https://pages.apigee.com/i-love-apis-2014.html)  | San Francisco   | 09/08/14 - 09/10/14 | [#iloveapis](https://twitter.com/search?f=realtime&q=%23iloveapis)         |
+| [SpringOne 2GX](http://springone2gx.com/)                      | Dallas          | 09/08/14 - 09/11/14 | [#SpringOne](https://twitter.com/search?f=realtime&q=%23springone)         |
 | [Disrupt SF](http://techcrunch.com/events/disrupt-sf/tickets/) | San Francisco   | 09/08/14 - 09/10/14 |
 | [API World](http://apiworld.co/)                               | San Francisco   | 09/16/14 - 09/17/14 |
 | [Strange Loop](https://thestrangeloop.com/)                    | St. Louis       | 09/17/14 - 09/19/14 |
