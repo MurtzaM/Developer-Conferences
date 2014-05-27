@@ -24,6 +24,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | New York City   | 06/10/14 - 06/12/14 | [#CloudExpo](https://twitter.com/search?f=realtime&q=%23cloudexpo) |
 | [Telecom APIs](http://telecomapis.com/)                        | Munich          | 06/10/14 - 06/12/14 | [#TelcoAPI](https://twitter.com/search?f=realtime&q=%23telcoapi) |
 | [APIdays SF](http://sf.apidays.io/)                            | San Francisco   | 06/13/14 - 06/15/14 | [#APIdays](https://twitter.com/search?f=realtime&q=%23apidays)     |
+| [Future Insights](http://futureinsightslive.com/las-vegas-2014/) | Las Vegas   | 06/16/14 - 06/20/14 | [#FILIVE](https://twitter.com/search?f=realtime&q=%23FILIVE)     |
 | [GOTO Amsterdam](http://gotocon.com/amsterdam-2014)            | Amsterdam   | 06/19/14 - 06/20/14 | [#gotoams](https://twitter.com/search?f=realtime&q=%23gotoams)     |
 | [O'Reilly Velocity](http://velocityconf.com/velocity2014)      | Santa Clara, CA | 06/24/14 - 06/26/14 | [#velocityconf](https://twitter.com/search?f=realtime&q=%23velocityconf)     |
 | [Google I/O](https://www.google.com/events/io)                 | San Francisco   | 06/26/14 - 06/27/14 | [#io14](https://twitter.com/search?q=%23io14), [#GoogleIO](https://twitter.com/search?f=realtime&q=%23googleio)  |
@@ -56,6 +57,3 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [SXSW](http://sxsw.com/)                                       | Austin          | 03/13/15 - 03/17/15 |
 | [Magento Imagine](http://www.imagineecommerce.com/)            | Las Vegas          | 04/20/15 - 04/22/15 |
 | [Facebook F8](https://www.facebook.com/f8)                     | San Francisco   | 05/05/2015          |
-
-
-
