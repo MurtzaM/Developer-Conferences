@@ -33,6 +33,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [OSCON](http://www.oscon.com/oscon2014)                        | Portland        | 07/20/14 - 07/24/14 | [#OSCON](https://twitter.com/search?f=realtime&q=%23oscon)         |
 | [API-Craft](http://api-craft.org/)                             | Detroit         | 07/28/14 - 07/30/14 | [#APICraft](https://twitter.com/search?f=realtime&q=%23apicraft)         |
 | [DeveloperWeek](http://seattle.developerweek.com/)             | Seattle         | 07/28/14 - 08/01/14 | [#DevWeek](https://twitter.com/search?f=realtime&q=%23devweek)         |
+| [BoxWorks](http://boxworks2014.com/)                           | San Francisco         | 09/02/14 - 09/04/14 | [#BoxWorks](https://twitter.com/search?f=realtime&q=%23BoxWorks)         |
 | [WindyCityRails](http://www.windycityrails.org/)              | Chicago         | 09/04/14 - 09/05/14 | [#WindyCityRails](https://twitter.com/search?f=realtime&q=%23WindyCityRails)         |
 | [I Love APIs](https://pages.apigee.com/i-love-apis-2014.html)  | San Francisco   | 09/08/14 - 09/10/14 | [#iloveapis](https://twitter.com/search?f=realtime&q=%23iloveapis)         |
 | [SpringOne 2GX](http://springone2gx.com/)                      | Dallas          | 09/08/14 - 09/11/14 | [#SpringOne](https://twitter.com/search?f=realtime&q=%23springone)         |
