@@ -16,6 +16,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [~~APIcon~~](http://www.apiconsf.com/)                             | ~~San Francisco~~   | ~~05/27/14 - 05/29/14~~ | [~~#APIConSF~~](https://twitter.com/search?f=realtime&q=%23apiconsf)   |
 | [~~APIdays~~](http://mediterranea.apidays.io/)                     | ~~Barcelona~~       | ~~05/29/14 - 05/30/14~~ | [~~#APIdays~~](https://twitter.com/search?f=realtime&q=%23apidays)   |
 | [IBM Innovate](http://www-01.ibm.com/software/rational/innovate/)   | Orlando, FL       | 06/01/14 - 06/05/14 | [#IBMInnovate](https://twitter.com/search?f=realtime&q=%23ibminnovate)   |
+| [International PHP](http://phpconference.com/2014se/en)             | Berlin       | 06/01/14 - 06/04/14 | [#ipc14](https://twitter.com/search?f=realtime&q=%23ipc14)   |
 | [Tizen Dev Conf](https://www.tizen.org/events/tizen-developer-conference/2014)   | San Francisco       | 06/02/14 - 06/04/14 | [#TDCSF14](https://twitter.com/search?f=realtime&q=%23tdcsf14)   |
 | [WWDC](https://developer.apple.com/wwdc/)                      | San Francisco   | 06/02/14 - 06/06/14 | [#WWDC](https://twitter.com/search?f=realtime&q=%23WWDC)   |         
 | [DrupalCon](https://austin2014.drupal.org/)                    | Austin  | 06/02/14 - 06/06/14 | [#drupalcon](https://twitter.com/search?f=realtime&q=%23drupalcon)   |         
