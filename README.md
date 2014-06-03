@@ -25,6 +25,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [dockercon](http://www.dockercon.com/)                         | San Francisco   | 06/09/14 - 06/10/14 | [#dockercon](https://twitter.com/search?f=realtime&q=%23dockercon)   |
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | New York City   | 06/10/14 - 06/12/14 | [#CloudExpo](https://twitter.com/search?f=realtime&q=%23cloudexpo) |
 | [Telecom APIs](http://telecomapis.com/)                        | Munich          | 06/10/14 - 06/12/14 | [#TelcoAPI](https://twitter.com/search?f=realtime&q=%23telcoapi) |
+| [QCon New York](https://qconnewyork.com/)                      | New York City   | 06/11/14 - 06/13/14 | [#qconnewyork](https://twitter.com/search?f=realtime&q=%23qconnewyork) |
 | [APIdays SF](http://sf.apidays.io/)                            | San Francisco   | 06/13/14 - 06/15/14 | [#APIdays](https://twitter.com/search?f=realtime&q=%23apidays)     |
 | [Future Insights](http://futureinsightslive.com/las-vegas-2014/) | Las Vegas   | 06/16/14 - 06/20/14 | [#FILIVE](https://twitter.com/search?f=realtime&q=%23FILIVE)     |
 | [GOTO Amsterdam](http://gotocon.com/amsterdam-2014)            | Amsterdam   | 06/19/14 - 06/20/14 | [#gotoams](https://twitter.com/search?f=realtime&q=%23gotoams)     |
@@ -55,6 +56,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Dreamforce](http://www.salesforce.com/dreamforce/DF14/)       | San Francisco   | 10/13/14 - 10/16/14 |
 | [HTML5DevConf](http://html5devconf.com/)                       | San Francisco   | 10/20/14 - 10/21/14 |
 | [GDC Next](http://www.gdcnext.com/)                            | Los Angeles     | 11/03/14 - 11/04/14 |
+| [QCon SF](http://qconsf.com/)                                  | San Francisco   | 11/03/14 - 11/05/14 | [#qconsf](https://twitter.com/search?f=realtime&q=%23qconsf) |
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | Santa Clara     | 11/04/14 - 11/06/14 |
 | [GOTO Berlin](http://gotocon.com/berlin-2014)                  | Berlin          | 11/05/14 - 11/07/14 |
 | [AWS re:Invent](https://reinvent.awsevents.com/)               | Las Vegas       | 11/11/14 - 11/14/14 |
