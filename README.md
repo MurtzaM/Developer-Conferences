@@ -61,6 +61,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | Santa Clara     | 11/04/14 - 11/06/14 |
 | [GOTO Berlin](http://gotocon.com/berlin-2014)                  | Berlin          | 11/05/14 - 11/07/14 |
 | [AWS re:Invent](https://reinvent.awsevents.com/)               | Las Vegas       | 11/11/14 - 11/14/14 |
+| [Node.vember](http://nodevember.org/)                          | Nashville   | 11/15/14 - 11/16/14 | [#nodevember](https://twitter.com/search?f=realtime&q=%23nodevember) |
 | [GWT.create](http://gwtcreate.com/)                            | Mountain View, CA | 01/22/15 - 01/23/15 |
 | [GWT.create](http://gwtcreate.com/)                            | Munich | 01/27/15 - 01/28/15 |
 | [SXSW](http://sxsw.com/)                                       | Austin          | 03/13/15 - 03/17/15 |
