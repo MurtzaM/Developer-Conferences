@@ -29,6 +29,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [APIdays SF](http://sf.apidays.io/)                            | San Francisco   | 06/13/14 - 06/15/14 | [#APIdays](https://twitter.com/search?f=realtime&q=%23apidays)     |
 | [Future Insights](http://futureinsightslive.com/las-vegas-2014/) | Las Vegas   | 06/16/14 - 06/20/14 | [#FILIVE](https://twitter.com/search?f=realtime&q=%23FILIVE)     |
 | [CloudantCon](http://www.cloudantcon.com/)                      | San Francisco   | 06/16/14 - 06/17/14 | [#CloudantCon](https://twitter.com/search?f=realtime&q=%23cloudantcon)     |
+| [Scala Days](http://www.scaladays.org/)                      | Berlin   | 06/16/14 - 06/18/14 | [#ScalaDays](https://twitter.com/search?f=realtime&q=%23ScalaDays)     |
 | [GigaOM Structure](http://events.gigaom.com/structure-2014/)    | San Francisco   | 06/18/14 - 06/20/14 | [#Gigaom](https://twitter.com/search?f=realtime&q=%23gigaom)     |
 | [GOTO Amsterdam](http://gotocon.com/amsterdam-2014)            | Amsterdam   | 06/19/14 - 06/20/14 | [#gotoams](https://twitter.com/search?f=realtime&q=%23gotoams)     |
 | [MongoDB World](https://world.mongodb.com/)                    | New York | 06/23/14 - 06/25/14 | [#MongoDBWorld](https://twitter.com/search?f=realtime&q=%23MongoDBWorld)     |
