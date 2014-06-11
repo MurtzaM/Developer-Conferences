@@ -21,8 +21,8 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [~~WWDC~~](https://developer.apple.com/wwdc/)                      | ~~San Francisco~~   | ~~06/02/14 - 06/06/14~~ | [~~#WWDC~~](https://twitter.com/search?f=realtime&q=%23WWDC)   |         
 | [~~DrupalCon~~](https://austin2014.drupal.org/)                    | ~~Austin~~  | ~~06/02/14 - 06/06/14~~ | [~~#drupalcon~~](https://twitter.com/search?f=realtime&q=%23drupalcon)   |         
 | [~~GLAZEDcon~~](http://glazedcon.com/)                      | ~~San Francisco~~   | ~~06/03/14 - 06/04/14~~ | [~~#glazedcon~~](https://twitter.com/search?f=realtime&q=%23glazedcon)   |         
-| [Cloud Foundry](http://cfsummit.com/)                      | San Francisco   | 06/09/14 - 06/11/14 | [#CFSummit](https://twitter.com/search?f=realtime&q=%23cfsummit)   |         
-| [dockercon](http://www.dockercon.com/)                         | San Francisco   | 06/09/14 - 06/10/14 | [#dockercon](https://twitter.com/search?f=realtime&q=%23dockercon)   |
+| [~~Cloud Foundry~~](http://cfsummit.com/)                      | ~~San Francisco~~   | ~~06/09/14 - 06/11/14~~ | [~~#CFSummit~~](https://twitter.com/search?f=realtime&q=%23cfsummit)   |         
+| [~~dockercon~~](http://www.dockercon.com/)                         | ~~San Francisco~~   | ~~06/09/14 - 06/10/14~~ | [~~#dockercon~~](https://twitter.com/search?f=realtime&q=%23dockercon)   |
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | New York City   | 06/10/14 - 06/12/14 | [#CloudExpo](https://twitter.com/search?f=realtime&q=%23cloudexpo) |
 | [Telecom APIs](http://telecomapis.com/)                        | Munich          | 06/10/14 - 06/12/14 | [#TelcoAPI](https://twitter.com/search?f=realtime&q=%23telcoapi) |
 | [QCon New York](https://qconnewyork.com/)                      | New York City   | 06/11/14 - 06/13/14 | [#qconnewyork](https://twitter.com/search?f=realtime&q=%23qconnewyork) |
