@@ -23,9 +23,9 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [~~GLAZEDcon~~](http://glazedcon.com/)                      | ~~San Francisco~~   | ~~06/03/14 - 06/04/14~~ | [~~#glazedcon~~](https://twitter.com/search?f=realtime&q=%23glazedcon)   |         
 | [~~Cloud Foundry~~](http://cfsummit.com/)                      | ~~San Francisco~~   | ~~06/09/14 - 06/11/14~~ | [~~#CFSummit~~](https://twitter.com/search?f=realtime&q=%23cfsummit)   |         
 | [~~dockercon~~](http://www.dockercon.com/)                         | ~~San Francisco~~   | ~~06/09/14 - 06/10/14~~ | [~~#dockercon~~](https://twitter.com/search?f=realtime&q=%23dockercon)   |
-| [Cloud Expo](http://www.cloudcomputingexpo.com/)               | New York City   | 06/10/14 - 06/12/14 | [#CloudExpo](https://twitter.com/search?f=realtime&q=%23cloudexpo) |
-| [Telecom APIs](http://telecomapis.com/)                        | Munich          | 06/10/14 - 06/12/14 | [#TelcoAPI](https://twitter.com/search?f=realtime&q=%23telcoapi) |
-| [QCon New York](https://qconnewyork.com/)                      | New York City   | 06/11/14 - 06/13/14 | [#qconnewyork](https://twitter.com/search?f=realtime&q=%23qconnewyork) |
+| [~~Cloud Expo~~](http://www.cloudcomputingexpo.com/)               | ~~New York City~~   | ~~06/10/14 - 06/12/14~~ | [~~#CloudExpo~~](https://twitter.com/search?f=realtime&q=%23cloudexpo) |
+| [~~Telecom APIs~~](http://telecomapis.com/)                        | ~~Munich~~          | ~~06/10/14 - 06/12/14~~ | [~~#TelcoAPI~~](https://twitter.com/search?f=realtime&q=%23telcoapi) |
+| [~~QCon New York~~](https://qconnewyork.com/)                      | ~~New York City~~   | ~~06/11/14 - 06/13/14~~ | [~~#qconnewyork~~](https://twitter.com/search?f=realtime&q=%23qconnewyork) |
 | [APIdays SF](http://sf.apidays.io/)                            | San Francisco   | 06/13/14 - 06/15/14 | [#APIdays](https://twitter.com/search?f=realtime&q=%23apidays)     |
 | [Future Insights](http://futureinsightslive.com/las-vegas-2014/) | Las Vegas   | 06/16/14 - 06/20/14 | [#FILIVE](https://twitter.com/search?f=realtime&q=%23FILIVE)     |
 | [CloudantCon](http://www.cloudantcon.com/)                      | San Francisco   | 06/16/14 - 06/17/14 | [#CloudantCon](https://twitter.com/search?f=realtime&q=%23cloudantcon)     |
