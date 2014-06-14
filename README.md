@@ -26,7 +26,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [~~Cloud Expo~~](http://www.cloudcomputingexpo.com/)               | ~~New York City~~   | ~~06/10/14 - 06/12/14~~ | [~~#CloudExpo~~](https://twitter.com/search?f=realtime&q=%23cloudexpo) |
 | [~~Telecom APIs~~](http://telecomapis.com/)                        | ~~Munich~~          | ~~06/10/14 - 06/12/14~~ | [~~#TelcoAPI~~](https://twitter.com/search?f=realtime&q=%23telcoapi) |
 | [~~QCon New York~~](https://qconnewyork.com/)                      | ~~New York City~~   | ~~06/11/14 - 06/13/14~~ | [~~#qconnewyork~~](https://twitter.com/search?f=realtime&q=%23qconnewyork) |
-| [APIdays SF](http://sf.apidays.io/)                            | San Francisco   | 06/13/14 - 06/15/14 | [#APIdays](https://twitter.com/search?f=realtime&q=%23apidays)     |
+| [~~APIdays SF~~](http://sf.apidays.io/)                            | ~~San Francisco~~   | ~~06/13/14 - 06/15/14~~ | [~~#APIdays~~](https://twitter.com/search?f=realtime&q=%23apidays)     |
 | [Future Insights](http://futureinsightslive.com/las-vegas-2014/) | Las Vegas   | 06/16/14 - 06/20/14 | [#FILIVE](https://twitter.com/search?f=realtime&q=%23FILIVE)     |
 | [CloudantCon](http://www.cloudantcon.com/)                      | San Francisco   | 06/16/14 - 06/17/14 | [#CloudantCon](https://twitter.com/search?f=realtime&q=%23cloudantcon)     |
 | [Scala Days](http://www.scaladays.org/)                      | Berlin   | 06/16/14 - 06/18/14 | [#ScalaDays](https://twitter.com/search?f=realtime&q=%23ScalaDays)     |
