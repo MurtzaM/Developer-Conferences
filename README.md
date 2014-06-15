@@ -45,6 +45,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [TiConf](http://ticonf.org/)                                   | Amsterdam       | 07/28/14 - 07/29/14 | [#ticonf](https://twitter.com/search?f=realtime&q=%23ticonf)         |
 | [API-Craft](http://api-craft.org/)                             | Detroit         | 07/28/14 - 07/30/14 | [#APICraft](https://twitter.com/search?f=realtime&q=%23apicraft)         |
 | [DeveloperWeek](http://seattle.developerweek.com/)             | Seattle         | 07/28/14 - 08/01/14 | [#DevWeek](https://twitter.com/search?f=realtime&q=%23devweek)         |
+| [Visual Studio Live!](http://vslive.com/events/redmond-2014/home.aspx)  | Redmond, WA         | 08/18/14 - 08/22/14 | [#VSLive](https://twitter.com/search?f=realtime&q=%23vslive)         |
 | [DEVLINK](http://www.devlink.net/)                             | Chattanooga, TN | 08/27/14 - 08/29/14 | [#devlink](https://twitter.com/search?f=realtime&q=%23devlink)         |
 | [BoxWorks](http://boxworks2014.com/)                           | San Francisco         | 09/02/14 - 09/04/14 | [#BoxWorks](https://twitter.com/search?f=realtime&q=%23BoxWorks)         |
 | [WindyCityRails](http://www.windycityrails.org/)              | Chicago         | 09/04/14 - 09/05/14 | [#WindyCityRails](https://twitter.com/search?f=realtime&q=%23WindyCityRails)         |
@@ -63,6 +64,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [xda:devcon](http://xda-devcon.com/)                           | Manchester, UK  | 09/26/14 - 09/28/14 |
 | [GOTO Aarhus](http://gotocon.com/aarhus-2014/)                 | Aarhus, Denmark | 09/29/14 - 10/02/14 |
 | [Splunk .conf2014](http://conf.splunk.com/)                           | Las Vegas       | 10/06/14 - 10/09/14 |
+| [Visual Studio Live!](http://vslive.com/events/washingtondc-2014/home.aspx)  | Washington, DC         | 10/06/14 - 10/09/14 | [#VSLive](https://twitter.com/search?f=realtime&q=%23vslive)         |
 | [FutureStack (New Relic)](http://futurestack.io/)                           | San Francisco       | 10/08/14 - 10/09/14 |
 | [Dreamforce](http://www.salesforce.com/dreamforce/DF14/)       | San Francisco   | 10/13/14 - 10/16/14 |
 | [HTML5DevConf](http://html5devconf.com/)                       | San Francisco   | 10/20/14 - 10/21/14 |
