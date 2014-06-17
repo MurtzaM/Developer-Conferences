@@ -59,6 +59,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Hackference](http://2014.hackference.co.uk/)                       | Birmingham, UK   | 09/19/14 - 09/21/14 |
 | [Designer of Things](http://www.designersofthings.com/sanfrancisco/) | San Francisco         | 09/23/14 - 09/24/14 |
 | [GoGaRuCo](http://gogaruco.com/)                               | San Francisco         | 09/19/14 - 09/20/14 |
+| [PuppetConf](http://2014.puppetconf.com/)                      | San Francisco         | 09/20/14 - 09/24/14 |
 | [GOTO Copenhagen](http://gotocon.com/cph-2014)                 | Copenhagen      | 09/23/14 - 09/26/14 |
 | [API Strategy](http://apistrategyconference.com/)              | Chicago         | 09/24/14 - 09/25/14 |
 | [REST FEST](http://www.restfest.org/)                          | Greenville, SC  | 09/25/14 - 09/27/14 |
