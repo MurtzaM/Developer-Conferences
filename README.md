@@ -27,8 +27,8 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [I Love APIs](https://pages.apigee.com/i-love-apis-2014.html)  | San Francisco   | 09/08/14 - 09/10/14 | [#iloveapis](https://twitter.com/search?f=realtime&q=%23iloveapis)         |
 | [Atlassian Summit](https://summit.atlassian.com/)              | San Jose   | 09/09/14 - 09/11/14 | [#Summit_2014](https://twitter.com/search?f=realtime&q=%23Summit_2014)         |
 | [SpringOne 2GX](http://springone2gx.com/)                      | Dallas          | 09/08/14 - 09/11/14 | [#SpringOne](https://twitter.com/search?f=realtime&q=%23springone)         |
-| [Disrupt SF](http://techcrunch.com/events/disrupt-sf/tickets/) | San Francisco   | 09/08/14 - 09/10/14 |
-| [API World](http://apiworld.co/)                               | San Francisco   | 09/16/14 - 09/17/14 |
+| [Disrupt SF](http://techcrunch.com/events/disrupt-sf/tickets/) | San Francisco   | 09/08/14 - 09/10/14 | [#DisruptSF](https://twitter.com/search?f=realtime&q=%23disruptsf)
+| [API World](http://apiworld.co/)                               | San Francisco   | 09/16/14 - 09/17/14 | [#APIWorld](https://twitter.com/search?f=realtime&q=%23apiworld)
 | [Strange Loop](https://thestrangeloop.com/)                    | St. Louis       | 09/17/14 - 09/19/14 |
 | [Uplinq](http://www.qualcomm.com/uplinq)                       | San Francisco   | 09/18/14 - 09/19/14 |
 | [Hackference](http://2014.hackference.co.uk/)                       | Birmingham, UK   | 09/19/14 - 09/21/14 |
