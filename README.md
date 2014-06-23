@@ -31,9 +31,9 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [API World](http://apiworld.co/)                               | San Francisco   | 09/16/14 - 09/17/14 | [#APIWorld](https://twitter.com/search?f=realtime&q=%23apiworld)
 | [Strange Loop](https://thestrangeloop.com/)                    | St. Louis       | 09/17/14 - 09/19/14 |[#strangeloop](https://twitter.com/search?f=realtime&q=%23strangeloop)
 | [Uplinq](http://www.qualcomm.com/uplinq)                       | San Francisco   | 09/18/14 - 09/19/14 | [#uplinq](https://twitter.com/search?f=realtime&q=%23uplinq)
-| [Hackference](http://2014.hackference.co.uk/)                       | Birmingham, UK   | 09/19/14 - 09/21/14 | 
-| [Designer of Things](http://www.designersofthings.com/sanfrancisco/) | San Francisco         | 09/23/14 - 09/24/14 |
-| [GoGaRuCo](http://gogaruco.com/)                               | San Francisco         | 09/19/14 - 09/20/14 |
+| [Hackference](http://2014.hackference.co.uk/)                       | Birmingham, UK   | 09/19/14 - 09/21/14 | [#Hackference](https://twitter.com/search?f=realtime&q=%23Hackference) 
+| [Designer of Things](http://www.designersofthings.com/sanfrancisco/) | San Francisco         | 09/23/14 - 09/24/14 | [#dothingscon](https://twitter.com/search?f=realtime&q=%23dothingscon)
+| [GoGaRuCo](http://gogaruco.com/)                               | San Francisco         | 09/19/14 - 09/20/14 | [#GoGaRuCo](https://twitter.com/search?f=realtime&q=%23GoGaRuCo)
 | [PuppetConf](http://2014.puppetconf.com/)                      | San Francisco         | 09/20/14 - 09/24/14 |
 | [GOTO Copenhagen](http://gotocon.com/cph-2014)                 | Copenhagen      | 09/23/14 - 09/26/14 |
 | [API Strategy](http://apistrategyconference.com/)              | Chicago         | 09/24/14 - 09/25/14 |
