@@ -20,6 +20,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [TiConf](http://ticonf.org/)                                   | Amsterdam       | 07/28/14 - 07/29/14 | [#ticonf](https://twitter.com/search?f=realtime&q=%23ticonf)         |
 | [API-Craft](http://api-craft.org/)                             | Detroit         | 07/28/14 - 07/30/14 | [#APICraft](https://twitter.com/search?f=realtime&q=%23apicraft)         |
 | [DeveloperWeek](http://seattle.developerweek.com/)             | Seattle         | 07/28/14 - 08/01/14 | [#DevWeek](https://twitter.com/search?f=realtime&q=%23devweek)         |
+| [Distill](https://distill.engineyard.com/)                     | San Francisco   | 08/07/14 - 08/08/14 | [#distill14](https://twitter.com/search?f=realtime&q=%23distill14)         |
 | [Visual Studio Live!](http://vslive.com/events/redmond-2014/home.aspx)  | Redmond, WA         | 08/18/14 - 08/22/14 | [#VSLive](https://twitter.com/search?f=realtime&q=%23vslive)         |
 | [DEVLINK](http://www.devlink.net/)                             | Chattanooga, TN | 08/27/14 - 08/29/14 | [#devlink](https://twitter.com/search?f=realtime&q=%23devlink)         |
 | [BoxWorks](http://boxworks2014.com/)                           | San Francisco         | 09/02/14 - 09/04/14 | [#BoxWorks](https://twitter.com/search?f=realtime&q=%23BoxWorks)         |
