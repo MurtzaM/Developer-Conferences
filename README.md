@@ -35,11 +35,11 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Hackference](http://2014.hackference.co.uk/)                       | Birmingham, UK   | 09/19/14 - 09/21/14 | [#Hackference](https://twitter.com/search?f=realtime&q=%23Hackference) 
 | [Designer of Things](http://www.designersofthings.com/sanfrancisco/) | San Francisco         | 09/23/14 - 09/24/14 | [#dothingscon](https://twitter.com/search?f=realtime&q=%23dothingscon)
 | [GoGaRuCo](http://gogaruco.com/)                               | San Francisco         | 09/19/14 - 09/20/14 | [#GoGaRuCo](https://twitter.com/search?f=realtime&q=%23GoGaRuCo)
-| [PuppetConf](http://2014.puppetconf.com/)                      | San Francisco         | 09/20/14 - 09/24/14 |
-| [GOTO Copenhagen](http://gotocon.com/cph-2014)                 | Copenhagen      | 09/23/14 - 09/26/14 |
-| [API Strategy](http://apistrategyconference.com/)              | Chicago         | 09/24/14 - 09/25/14 |
-| [REST FEST](http://www.restfest.org/)                          | Greenville, SC  | 09/25/14 - 09/27/14 |
-| [xda:devcon](http://xda-devcon.com/)                           | Manchester, UK  | 09/26/14 - 09/28/14 |
+| [PuppetConf](http://2014.puppetconf.com/)                      | San Francisco         | 09/20/14 - 09/24/14 | [#PuppetConf](https://twitter.com/search?f=realtime&q=%23PuppetConf)
+| [GOTO Copenhagen](http://gotocon.com/cph-2014)                 | Copenhagen      | 09/23/14 - 09/26/14 | [#gotocph](https://twitter.com/search?f=realtime&q=%23gotocph)
+| [API Strategy](http://apistrategyconference.com/)              | Chicago         | 09/24/14 - 09/25/14 | [#apistrat](https://twitter.com/search?f=realtime&q=%23apistrat)
+| [REST FEST](http://www.restfest.org/)                          | Greenville, SC  | 09/25/14 - 09/27/14 | [#restfest](https://twitter.com/search?f=realtime&q=%23restfest)
+| [xda:devcon](http://xda-devcon.com/)                           | Manchester, UK  | 09/26/14 - 09/28/14 | [#xda](https://twitter.com/search?f=realtime&q=%23xda)
 | [GOTO Aarhus](http://gotocon.com/aarhus-2014/)                 | Aarhus, Denmark | 09/29/14 - 10/02/14 |
 | [Splunk .conf2014](http://conf.splunk.com/)                           | Las Vegas       | 10/06/14 - 10/09/14 |
 | [Visual Studio Live!](http://vslive.com/events/washingtondc-2014/home.aspx)  | Washington, DC         | 10/06/14 - 10/09/14 | [#VSLive](https://twitter.com/search?f=realtime&q=%23vslive)         |
