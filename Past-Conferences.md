@@ -32,3 +32,9 @@ This repo tracks developer conferences. To add a conference to this list, please
 | [~~Scala Days~~](http://www.scaladays.org/)                      | ~~Berlin~~   | ~~06/16/14 - 06/18/14~~ | [~~#ScalaDays~~](https://twitter.com/search?f=realtime&q=%23ScalaDays)     |
 | [~~GigaOM Structure~~](http://events.gigaom.com/structure-2014/)    | ~~San Francisco~~   | ~~06/18/14 - 06/20/14~~ | [~~#Gigaom~~](https://twitter.com/search?f=realtime&q=%23gigaom)     |
 | [~~GOTO Amsterdam~~](http://gotocon.com/amsterdam-2014)            | ~~Amsterdam~~   | ~~06/19/14 - 06/20/14~~ | [~~#gotoams~~](https://twitter.com/search?f=realtime&q=%23gotoams)     |
+| [MongoDB World](https://world.mongodb.com/)                    | New York | 06/23/14 - 06/25/14 | [#MongoDBWorld](https://twitter.com/search?f=realtime&q=%23MongoDBWorld)     |
+| [O'Reilly Velocity](http://velocityconf.com/velocity2014)      | Santa Clara, CA | 06/24/14 - 06/26/14 | [#velocityconf](https://twitter.com/search?f=realtime&q=%23velocityconf)     |
+| [Open Source Bridge](http://opensourcebridge.org/)      | Portland | 06/24/14 - 06/28/14 | [#osbridge](https://twitter.com/search?f=realtime&q=%23osbridge)     |
+| [Google I/O](https://www.google.com/events/io)                 | San Francisco   | 06/26/14 - 06/27/14 | [#io14](https://twitter.com/search?q=%23io14), [#GoogleIO](https://twitter.com/search?f=realtime&q=%23googleio)  |
+| [JuliaCon](http://juliacon.org/)                               | Chicago   | 06/26/14 - 06/27/14 | [#JuliaCon](https://twitter.com/search?q=%23JuliaCon)  |
+| [DevOpsDays](http://devopsdays.org/events/2014-siliconvalley/) | Mountain View | 06/27/14 - 06/28/14 | [#DevOpsDays](https://twitter.com/search?q=%23devopsdays)  |
