@@ -7,8 +7,6 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 
 | Conference Name                                                | Location        | Date                  | Hash Tag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
-| [Open Source Bridge](http://opensourcebridge.org/)      | Portland | 06/24/14 - 06/28/14 | [#osbridge](https://twitter.com/search?f=realtime&q=%23osbridge)     |
-| [DevOpsDays](http://devopsdays.org/events/2014-siliconvalley/) | Mountain View | 06/27/14 - 06/28/14 | [#DevOpsDays](https://twitter.com/search?q=%23devopsdays)  |
 | [CodeStock](http://www.codestock.org/)                         | Knoxville, TN        | 07/11/14 - 07/12/14 | [#CodeStock](https://twitter.com/search?f=realtime&q=%23codestock)         |
 | [Microsoft Worldwide Partner](http://www.digitalwpc.com/) | Washington, DC        | 07/13/14 - 07/17/14 | [#WPC14](https://twitter.com/search?f=realtime&q=%23wpc14)         |
 | [OSCON](http://www.oscon.com/oscon2014)                        | Portland        | 07/20/14 - 07/24/14 | [#OSCON](https://twitter.com/search?f=realtime&q=%23oscon)         |
