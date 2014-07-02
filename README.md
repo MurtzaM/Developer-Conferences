@@ -24,6 +24,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Atlassian Summit](https://summit.atlassian.com/)              | San Jose   | 09/09/14 - 09/11/14 | [#Summit_2014](https://twitter.com/search?f=realtime&q=%23Summit_2014)         |
 | [SpringOne 2GX](http://springone2gx.com/)                      | Dallas          | 09/08/14 - 09/11/14 | [#SpringOne](https://twitter.com/search?f=realtime&q=%23springone)         |
 | [Disrupt SF](http://techcrunch.com/events/disrupt-sf/tickets/) | San Francisco   | 09/08/14 - 09/10/14 | [#DisruptSF](https://twitter.com/search?f=realtime&q=%23disruptsf)
+| [Intel IDF14](http://www.intel.com/content/www/us/en/intel-developer-forum-idf/san-francisco/2014/idf-2014-san-francisco.html) | San Francisco   | 09/09/14 - 09/11/14 | [#IDF14](https://twitter.com/search?f=realtime&q=%23idf14)
 | [API World](http://apiworld.co/)                               | San Francisco   | 09/16/14 - 09/17/14 | [#APIWorld](https://twitter.com/search?f=realtime&q=%23apiworld)
 | [Strange Loop](https://thestrangeloop.com/)                    | St. Louis       | 09/17/14 - 09/19/14 |[#strangeloop](https://twitter.com/search?f=realtime&q=%23strangeloop)
 | [Uplinq](http://www.qualcomm.com/uplinq)                       | San Francisco   | 09/18/14 - 09/19/14 | [#uplinq](https://twitter.com/search?f=realtime&q=%23uplinq)
@@ -41,6 +42,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Visual Studio Live!](http://vslive.com/events/washingtondc-2014/home.aspx)  | Washington, DC         | 10/06/14 - 10/09/14 | [#VSLive](https://twitter.com/search?f=realtime&q=%23vslive)         |
 | [FutureStack (New Relic)](http://futurestack.io/)                           | San Francisco       | 10/08/14 - 10/09/14 |
 | [Dreamforce](http://www.salesforce.com/dreamforce/DF14/)       | San Francisco   | 10/13/14 - 10/16/14 |
+| [Strata + Hadoop World](http://strataconf.com/stratany2014)       | New York   | 10/15/14 - 10/17/14 |
 | [HTML5DevConf](http://html5devconf.com/)                       | San Francisco   | 10/20/14 - 10/21/14 |
 | [nginx.conf](http://nginx.com/nginxconf)                       | San Francisco   | 10/20/14 - 10/22/14 |
 | [GDC Next](http://www.gdcnext.com/)                            | Los Angeles     | 11/03/14 - 11/04/14 |
@@ -49,8 +51,10 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [GOTO Berlin](http://gotocon.com/berlin-2014)                  | Berlin          | 11/05/14 - 11/07/14 |
 | [AWS re:Invent](https://reinvent.awsevents.com/)               | Las Vegas       | 11/11/14 - 11/14/14 |
 | [Node.vember](http://nodevember.org/)                          | Nashville   | 11/15/14 - 11/16/14 | [#nodevember](https://twitter.com/search?f=realtime&q=%23nodevember) |
+| [Strata](http://strataconf.com/strataeu2014)                   | Barcelona | 11/19/14 - 11/21/14 |
 | [GWT.create](http://gwtcreate.com/)                            | Mountain View, CA | 01/22/15 - 01/23/15 |
 | [GWT.create](http://gwtcreate.com/)                            | Munich | 01/27/15 - 01/28/15 |
+| [Strata](http://strataconf.com/strata2015)                     | San Jose | 02/18/15 - 02/20/15 |
 | [SXSW](http://sxsw.com/)                                       | Austin          | 03/13/15 - 03/17/15 |
 | [Magento Imagine](http://www.imagineecommerce.com/)            | Las Vegas          | 04/20/15 - 04/22/15 |
 | [Facebook F8](https://www.facebook.com/f8)                     | San Francisco   | 05/05/2015          |
