@@ -37,10 +37,10 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [REST FEST](http://www.restfest.org/)                          | Greenville, SC  | 09/25/14 - 09/27/14 | [#restfest](https://twitter.com/search?f=realtime&q=%23restfest)
 | [xda:devcon](http://xda-devcon.com/)                           | Manchester, UK  | 09/26/14 - 09/28/14 | [#xda](https://twitter.com/search?f=realtime&q=%23xda)
 | [JavaOne](www.oracle.com/javaone/index.html)                           | San Francisco, CA  | 09/28/14 - 10/02/14 | [#javaone](https://twitter.com/search?f=realtime&q=%23javaone)
-| [GOTO Aarhus](http://gotocon.com/aarhus-2014/)                 | Aarhus, Denmark | 09/29/14 - 10/02/14 |
+| [GOTO Aarhus](http://gotocon.com/aarhus-2014/)                 | Aarhus, Denmark | 09/29/14 - 10/02/14 | [#gotoaar](https://twitter.com/search?f=realtime&q=%23gotoaar)
 | [Splunk .conf2014](http://conf.splunk.com/)                           | Las Vegas       | 10/06/14 - 10/09/14 | [#splunkconf](https://twitter.com/search?f=realtime&q=%23splunkconf)
 | [Visual Studio Live!](http://vslive.com/events/washingtondc-2014/home.aspx)  | Washington, DC         | 10/06/14 - 10/09/14 | [#VSLive](https://twitter.com/search?f=realtime&q=%23vslive)         |
-| [FutureStack (New Relic)](http://futurestack.io/)                           | San Francisco       | 10/08/14 - 10/09/14 |
+| [FutureStack (New Relic)](http://futurestack.io/)                           | San Francisco       | 10/08/14 - 10/09/14 | [#futurestack](https://twitter.com/search?f=realtime&q=%23futurestack)
 | [Dreamforce](http://www.salesforce.com/dreamforce/DF14/)       | San Francisco   | 10/13/14 - 10/16/14 |
 | [Strata + Hadoop World](http://strataconf.com/stratany2014)       | New York   | 10/15/14 - 10/17/14 |
 | [HTML5DevConf](http://html5devconf.com/)                       | San Francisco   | 10/20/14 - 10/21/14 |
