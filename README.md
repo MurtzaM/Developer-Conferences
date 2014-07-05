@@ -45,11 +45,11 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Strata + Hadoop World](http://strataconf.com/stratany2014)       | New York   | 10/15/14 - 10/17/14 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf), [#HadoopWorld](https://twitter.com/search?f=realtime&q=%23hadoopworld)
 | [HTML5DevConf](http://html5devconf.com/)                       | San Francisco   | 10/20/14 - 10/21/14 | [#html5devconf](https://twitter.com/search?f=realtime&q=%23html5devconf)
 | [nginx.conf](http://nginx.com/nginxconf)                       | San Francisco   | 10/20/14 - 10/22/14 | [#nginxconf](https://twitter.com/search?f=realtime&q=%23nginxconf)
-| [GDC Next](http://www.gdcnext.com/)                            | Los Angeles     | 11/03/14 - 11/04/14 |
+| [GDC Next](http://www.gdcnext.com/)                            | Los Angeles     | 11/03/14 - 11/04/14 | [#GDCNext](https://twitter.com/search?f=realtime&q=%23gdcnext) |
 | [QCon SF](http://qconsf.com/)                                  | San Francisco   | 11/03/14 - 11/05/14 | [#qconsf](https://twitter.com/search?f=realtime&q=%23qconsf) |
-| [Cloud Expo](http://www.cloudcomputingexpo.com/)               | Santa Clara     | 11/04/14 - 11/06/14 |
-| [GOTO Berlin](http://gotocon.com/berlin-2014)                  | Berlin          | 11/05/14 - 11/07/14 |
-| [AWS re:Invent](https://reinvent.awsevents.com/)               | Las Vegas       | 11/11/14 - 11/14/14 |
+| [Cloud Expo](http://www.cloudcomputingexpo.com/)               | Santa Clara     | 11/04/14 - 11/06/14 | [#CloudExpo](https://twitter.com/search?f=realtime&q=%23CloudExpo) |
+| [GOTO Berlin](http://gotocon.com/berlin-2014)                  | Berlin          | 11/05/14 - 11/07/14 | [#gotober](https://twitter.com/search?f=realtime&q=%23gotober) |
+| [AWS re:Invent](https://reinvent.awsevents.com/)               | Las Vegas       | 11/11/14 - 11/14/14 | [#AWSreInvent](https://twitter.com/search?f=realtime&q=%23awsreinvent) |
 | [Node.vember](http://nodevember.org/)                          | Nashville   | 11/15/14 - 11/16/14 | [#nodevember](https://twitter.com/search?f=realtime&q=%23nodevember) |
 | [Strata](http://strataconf.com/strataeu2014)                   | Barcelona | 11/19/14 - 11/21/14 |
 | [GWT.create](http://gwtcreate.com/)                            | Mountain View, CA | 01/22/15 - 01/23/15 |
