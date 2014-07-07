@@ -51,10 +51,10 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [GOTO Berlin](http://gotocon.com/berlin-2014)                  | Berlin          | 11/05/14 - 11/07/14 | [#gotober](https://twitter.com/search?f=realtime&q=%23gotober) |
 | [AWS re:Invent](https://reinvent.awsevents.com/)               | Las Vegas       | 11/11/14 - 11/14/14 | [#AWSreInvent](https://twitter.com/search?f=realtime&q=%23awsreinvent) |
 | [Node.vember](http://nodevember.org/)                          | Nashville   | 11/15/14 - 11/16/14 | [#nodevember](https://twitter.com/search?f=realtime&q=%23nodevember) |
-| [Strata](http://strataconf.com/strataeu2014)                   | Barcelona | 11/19/14 - 11/21/14 |
-| [GWT.create](http://gwtcreate.com/)                            | Mountain View, CA | 01/22/15 - 01/23/15 |
-| [GWT.create](http://gwtcreate.com/)                            | Munich | 01/27/15 - 01/28/15 |
-| [Strata](http://strataconf.com/strata2015)                     | San Jose | 02/18/15 - 02/20/15 |
-| [SXSW](http://sxsw.com/)                                       | Austin          | 03/13/15 - 03/17/15 |
-| [Magento Imagine](http://www.imagineecommerce.com/)            | Las Vegas          | 04/20/15 - 04/22/15 |
-| [Facebook F8](https://www.facebook.com/f8)                     | San Francisco   | 05/05/2015          |
+| [Strata](http://strataconf.com/strataeu2014)                   | Barcelona | 11/19/14 - 11/21/14 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf)
+| [GWT.create](http://gwtcreate.com/)                            | Mountain View, CA | 01/22/15 - 01/23/15 | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)
+| [GWT.create](http://gwtcreate.com/)                            | Munich | 01/27/15 - 01/28/15 | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)
+| [Strata](http://strataconf.com/strata2015)                     | San Jose | 02/18/15 - 02/20/15 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf)
+| [SXSW](http://sxsw.com/)                                       | Austin          | 03/13/15 - 03/17/15 | [#SXSW](https://twitter.com/search?f=realtime&q=%23sxsw)
+| [Magento Imagine](http://www.imagineecommerce.com/)            | Las Vegas          | 04/20/15 - 04/22/15 | [#MagentoImagine](https://twitter.com/search?f=realtime&q=%23MagentoImagine)
+| [Facebook F8](https://www.facebook.com/f8)                     | San Francisco   | 05/05/2015          | [#f8](https://twitter.com/search?f=realtime&q=%23f8)
