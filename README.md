@@ -49,6 +49,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [nginx.conf](http://nginx.com/nginxconf)                       | San Francisco   | 10/20/14 - 10/22/14 | [#nginxconf](https://twitter.com/search?f=realtime&q=%23nginxconf)
 | [GDC Next](http://www.gdcnext.com/)                            | Los Angeles     | 11/03/14 - 11/04/14 | [#GDCNext](https://twitter.com/search?f=realtime&q=%23gdcnext) |
 | [QCon SF](http://qconsf.com/)                                  | San Francisco   | 11/03/14 - 11/05/14 | [#qconsf](https://twitter.com/search?f=realtime&q=%23qconsf) |
+| [OpenStack Summit](https://www.openstack.org/summit/openstack-paris-summit-2014/)  | Paris   | 11/03/14 - 11/07/14 | [#OpenStack](https://twitter.com/search?f=realtime&q=%23OpenStack) |
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | Santa Clara     | 11/04/14 - 11/06/14 | [#CloudExpo](https://twitter.com/search?f=realtime&q=%23CloudExpo) |
 | [GOTO Berlin](http://gotocon.com/berlin-2014)                  | Berlin          | 11/05/14 - 11/07/14 | [#gotober](https://twitter.com/search?f=realtime&q=%23gotober) |
 | [AWS re:Invent](https://reinvent.awsevents.com/)               | Las Vegas       | 11/11/14 - 11/14/14 | [#AWSreInvent](https://twitter.com/search?f=realtime&q=%23awsreinvent) |
