@@ -47,6 +47,8 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Strata + Hadoop World](http://strataconf.com/stratany2014)       | New York   | 10/15/14 - 10/17/14 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf), [#HadoopWorld](https://twitter.com/search?f=realtime&q=%23hadoopworld)
 | [HTML5DevConf](http://html5devconf.com/)                       | San Francisco   | 10/20/14 - 10/21/14 | [#html5devconf](https://twitter.com/search?f=realtime&q=%23html5devconf)
 | [nginx.conf](http://nginx.com/nginxconf)                       | San Francisco   | 10/20/14 - 10/22/14 | [#nginxconf](https://twitter.com/search?f=realtime&q=%23nginxconf)
+| [Polyconf](http://polyconf.com/)                               | Poznan, Poland  | 10/30/14 - 10/31/14 | [#polyconf](https://twitter.com/search?f=realtime&q=%23polyconf)
+| [Droidcon](http://uk.droidcon.com/2014/)                       | London          | 10/30/14 - 10/31/14 | [#droidconuk](https://twitter.com/search?f=realtime&q=%23droidconuk)
 | [GDC Next](http://www.gdcnext.com/)                            | Los Angeles     | 11/03/14 - 11/04/14 | [#GDCNext](https://twitter.com/search?f=realtime&q=%23gdcnext) |
 | [QCon SF](http://qconsf.com/)                                  | San Francisco   | 11/03/14 - 11/05/14 | [#qconsf](https://twitter.com/search?f=realtime&q=%23qconsf) |
 | [OpenStack Summit](https://www.openstack.org/summit/openstack-paris-summit-2014/)  | Paris   | 11/03/14 - 11/07/14 | [#OpenStack](https://twitter.com/search?f=realtime&q=%23OpenStack) |
