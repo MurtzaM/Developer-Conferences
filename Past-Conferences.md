@@ -38,3 +38,4 @@ This repo tracks developer conferences. To add a conference to this list, please
 | [Google I/O](https://www.google.com/events/io)                 | San Francisco   | 06/26/14 - 06/27/14 | [#io14](https://twitter.com/search?q=%23io14), [#GoogleIO](https://twitter.com/search?f=realtime&q=%23googleio)  |
 | [JuliaCon](http://juliacon.org/)                               | Chicago   | 06/26/14 - 06/27/14 | [#JuliaCon](https://twitter.com/search?q=%23JuliaCon)  |
 | [DevOpsDays](http://devopsdays.org/events/2014-siliconvalley/) | Mountain View | 06/27/14 - 06/28/14 | [#DevOpsDays](https://twitter.com/search?q=%23devopsdays)  |
+| [CodeStock](http://www.codestock.org/)                         | Knoxville, TN        | 07/11/14 - 07/12/14 | [#CodeStock](https://twitter.com/search?f=realtime&q=%23codestock)         |
