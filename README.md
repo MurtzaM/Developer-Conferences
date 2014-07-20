@@ -33,6 +33,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Droidcon](http://fr.droidcon.com/2014)                        | Paris          | 09/22/14 - 09/23/14 | [#Droidconfr](https://twitter.com/search?f=realtime&q=%23droidconfr) 
 | [Designer of Things](http://www.designersofthings.com/sanfrancisco/) | San Francisco         | 09/23/14 - 09/24/14 | [#dothingscon](https://twitter.com/search?f=realtime&q=%23dothingscon)
 | [GoGaRuCo](http://gogaruco.com/)                               | San Francisco         | 09/19/14 - 09/20/14 | [#GoGaRuCo](https://twitter.com/search?f=realtime&q=%23GoGaRuCo)
+| [Oculus Connect](https://www.oculusvr.com/connect/)            | Los Angeles           | 09/19/14 - 09/20/14 | [#OculusConnect](https://twitter.com/search?f=realtime&q=%23OculusConnect)
 | [PuppetConf](http://2014.puppetconf.com/)                      | San Francisco         | 09/20/14 - 09/24/14 | [#PuppetConf](https://twitter.com/search?f=realtime&q=%23PuppetConf)
 | [GOTO Copenhagen](http://gotocon.com/cph-2014)                 | Copenhagen      | 09/23/14 - 09/26/14 | [#gotocph](https://twitter.com/search?f=realtime&q=%23gotocph)
 | [API Strategy](http://apistrategyconference.com/)              | Chicago         | 09/24/14 - 09/25/14 | [#apistrat](https://twitter.com/search?f=realtime&q=%23apistrat)
@@ -59,6 +60,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [AWS re:Invent](https://reinvent.awsevents.com/)               | Las Vegas       | 11/11/14 - 11/14/14 | [#AWSreInvent](https://twitter.com/search?f=realtime&q=%23awsreinvent) |
 | [Node.vember](http://nodevember.org/)                          | Nashville   | 11/15/14 - 11/16/14 | [#nodevember](https://twitter.com/search?f=realtime&q=%23nodevember) |
 | [Strata](http://strataconf.com/strataeu2014)                   | Barcelona | 11/19/14 - 11/21/14 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf)
+| [RobotsConf](http://2014.robotsconf.com/)                      | Jacksonville, FL | 12/06/14 - 12/07/14 | [#Robotsconf](https://twitter.com/search?f=realtime&q=%23Robotsconf)
 | [GWT.create](http://gwtcreate.com/)                            | Mountain View, CA | 01/22/15 - 01/23/15 | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)
 | [GWT.create](http://gwtcreate.com/)                            | Munich | 01/27/15 - 01/28/15 | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)
 | [Strata](http://strataconf.com/strata2015)                     | San Jose | 02/18/15 - 02/20/15 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf)
