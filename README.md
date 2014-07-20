@@ -54,6 +54,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Droidcon](http://uk.droidcon.com/2014/)                       | London          | 10/30/14 - 10/31/14 | [#droidconuk](https://twitter.com/search?f=realtime&q=%23droidconuk)
 | [GDC Next](http://www.gdcnext.com/)                            | Los Angeles     | 11/03/14 - 11/04/14 | [#GDCNext](https://twitter.com/search?f=realtime&q=%23gdcnext) |
 | [QCon SF](http://qconsf.com/)                                  | San Francisco   | 11/03/14 - 11/05/14 | [#qconsf](https://twitter.com/search?f=realtime&q=%23qconsf) |
+| [Internationalization and Unicode Conference](http://www.cloudcomputingexpo.com/) | Santa Clara     | 11/03/14 - 11/05/14 | [#IUC](https://twitter.com/search?f=realtime&q=%23IUC) |
 | [OpenStack Summit](https://www.openstack.org/summit/openstack-paris-summit-2014/)  | Paris   | 11/03/14 - 11/07/14 | [#OpenStack](https://twitter.com/search?f=realtime&q=%23OpenStack) |
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | Santa Clara     | 11/04/14 - 11/06/14 | [#CloudExpo](https://twitter.com/search?f=realtime&q=%23CloudExpo) |
 | [GOTO Berlin](http://gotocon.com/berlin-2014)                  | Berlin          | 11/05/14 - 11/07/14 | [#gotober](https://twitter.com/search?f=realtime&q=%23gotober) |
