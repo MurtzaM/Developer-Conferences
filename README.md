@@ -63,6 +63,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Node.vember](http://nodevember.org/)                          | Nashville   | 11/15/14 - 11/16/14 | [#nodevember](https://twitter.com/search?f=realtime&q=%23nodevember) |
 | [Strata](http://strataconf.com/strataeu2014)                   | Barcelona | 11/19/14 - 11/21/14 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf)
 | [RobotsConf](http://2014.robotsconf.com/)                      | Jacksonville, FL | 12/06/14 - 12/07/14 | [#Robotsconf](https://twitter.com/search?f=realtime&q=%23Robotsconf)
+| [Gartner Application Architecture](goo.gl/OqrLjt)              | Las Vegas        | 12/08/14 - 12/10/14 | [#gartneraadi](https://twitter.com/search?f=realtime&q=%23gartneraadi)
 | [GWT.create](http://gwtcreate.com/)                            | Mountain View, CA | 01/22/15 - 01/23/15 | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)
 | [GWT.create](http://gwtcreate.com/)                            | Munich | 01/27/15 - 01/28/15 | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)
 | [Strata](http://strataconf.com/strata2015)                     | San Jose | 02/18/15 - 02/20/15 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf)
