@@ -7,6 +7,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 
 | Conference Name                                                | Location        | Date                  | Hash Tag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
+| [Cloud Identity Summit](goo.gl/8HN5Ze)                        | Monterey, CA       | 07/19/14 - 07/22/14 | [#CISMCC](https://twitter.com/search?f=realtime&q=%23cismcc)         |
 | [OSCON](http://www.oscon.com/oscon2014)                        | Portland        | 07/20/14 - 07/24/14 | [#OSCON](https://twitter.com/search?f=realtime&q=%23oscon)         |
 | [PyOhio](http://www.pyohio.org/)                        | Columbus, OH        | 07/26/14 - 07/27/14 | [#PyOhio](https://twitter.com/search?f=realtime&q=%23pyohio)         |
 | [TiConf](http://ticonf.org/)                                   | Amsterdam       | 07/28/14 - 07/29/14 | [#ticonf](https://twitter.com/search?f=realtime&q=%23ticonf)         |
