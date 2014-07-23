@@ -40,3 +40,4 @@ This repo tracks developer conferences. To add a conference to this list, please
 | [DevOpsDays](http://devopsdays.org/events/2014-siliconvalley/) | Mountain View | 06/27/14 - 06/28/14 | [#DevOpsDays](https://twitter.com/search?q=%23devopsdays)  |
 | [CodeStock](http://www.codestock.org/)                         | Knoxville, TN        | 07/11/14 - 07/12/14 | [#CodeStock](https://twitter.com/search?f=realtime&q=%23codestock)         |
 | [Microsoft Worldwide Partner](http://www.digitalwpc.com/) | Washington, DC        | 07/13/14 - 07/17/14 | [#WPC14](https://twitter.com/search?f=realtime&q=%23wpc14)         |
+| [Cloud Identity Summit](http://goo.gl/8HN5Ze)                        | Monterey, CA       | 07/19/14 - 07/22/14 | [#CISMCC](https://twitter.com/search?f=realtime&q=%23cismcc)         |
