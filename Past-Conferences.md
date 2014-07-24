@@ -41,3 +41,4 @@ This repo tracks developer conferences. To add a conference to this list, please
 | [CodeStock](http://www.codestock.org/)                         | Knoxville, TN        | 07/11/14 - 07/12/14 | [#CodeStock](https://twitter.com/search?f=realtime&q=%23codestock)         |
 | [Microsoft Worldwide Partner](http://www.digitalwpc.com/) | Washington, DC        | 07/13/14 - 07/17/14 | [#WPC14](https://twitter.com/search?f=realtime&q=%23wpc14)         |
 | [Cloud Identity Summit](http://goo.gl/8HN5Ze)                        | Monterey, CA       | 07/19/14 - 07/22/14 | [#CISMCC](https://twitter.com/search?f=realtime&q=%23cismcc)         |
+| [OSCON](http://www.oscon.com/oscon2014)                        | Portland        | 07/20/14 - 07/24/14 | [#OSCON](https://twitter.com/search?f=realtime&q=%23oscon)         |
