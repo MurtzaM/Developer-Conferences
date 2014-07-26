@@ -24,6 +24,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Atlassian Summit](https://summit.atlassian.com/)              | San Jose   | 09/09/14 - 09/11/14 | [#Summit_2014](https://twitter.com/search?f=realtime&q=%23Summit_2014)         |
 | [SpringOne 2GX](http://springone2gx.com/)                      | Dallas          | 09/08/14 - 09/11/14 | [#SpringOne](https://twitter.com/search?f=realtime&q=%23springone)         |
 | [Disrupt SF](http://techcrunch.com/events/disrupt-sf/tickets/) | San Francisco   | 09/08/14 - 09/10/14 | [#DisruptSF](https://twitter.com/search?f=realtime&q=%23disruptsf)
+| [FOSS4G](https://2014.foss4g.org/)                             | Portland        | 09/08/14 - 09/13/14 | [#FOSS4G](https://twitter.com/search?f=realtime&q=%23FOSS4G)         |
 | [Intel IDF14](http://www.intel.com/content/www/us/en/intel-developer-forum-idf/san-francisco/2014/idf-2014-san-francisco.html) | San Francisco   | 09/09/14 - 09/11/14 | [#IDF14](https://twitter.com/search?f=realtime&q=%23idf14)
 | [Cassandra Summit](http://goo.gl/n4L6YT)                       | San Francisco         | 09/10/14 - 09/11/14 | [#CassandraSummit](https://twitter.com/search?f=realtime&q=%23CassandraSummit)         |
 | [IT/Dev Connections](http://goo.gl/4kF2Oc)                     | Las Vegas             | 09/15/14 - 09/19/14 | [#ITdev](https://twitter.com/search?f=realtime&q=%23ITdev)         |
