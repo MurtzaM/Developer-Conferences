@@ -69,6 +69,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Gartner Application Architecture](http://goo.gl/OqrLjt)              | Las Vegas        | 12/08/14 - 12/10/14 | [#gartneraadi](https://twitter.com/search?f=realtime&q=%23gartneraadi)
 | [GWT.create](http://gwtcreate.com/)                            | Mountain View, CA | 01/22/15 - 01/23/15 | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)
 | [GWT.create](http://gwtcreate.com/)                            | Munich | 01/27/15 - 01/28/15 | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)
+| [dotSwift](http://www.dotswift.io/)                     | Paris   | 02/06/2015          | [#dotswift](https://twitter.com/search?f=realtime&q=%23dotswift)
 | [Strata](http://strataconf.com/strata2015)                     | San Jose | 02/18/15 - 02/20/15 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf)
 | [SXSW](http://sxsw.com/)                                       | Austin          | 03/13/15 - 03/17/15 | [#SXSW](https://twitter.com/search?f=realtime&q=%23sxsw)
 | [Magento Imagine](http://www.imagineecommerce.com/)            | Las Vegas          | 04/20/15 - 04/22/15 | [#MagentoImagine](https://twitter.com/search?f=realtime&q=%23MagentoImagine)
