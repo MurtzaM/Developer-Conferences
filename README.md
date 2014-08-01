@@ -61,6 +61,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | Santa Clara     | 11/04/14 - 11/06/14 | [#CloudExpo](https://twitter.com/search?f=realtime&q=%23CloudExpo) |
 | [GOTO Berlin](http://gotocon.com/berlin-2014)                  | Berlin          | 11/05/14 - 11/07/14 | [#gotober](https://twitter.com/search?f=realtime&q=%23gotober) |
 | [AWS re:Invent](https://reinvent.awsevents.com/)               | Las Vegas       | 11/11/14 - 11/14/14 | [#AWSreInvent](https://twitter.com/search?f=realtime&q=%23awsreinvent) |
+| [Samsung Developer](http://samsungdevcon.com/)                 | San Francisco       | 11/11/14 - 11/13/14 | [#SDC14](https://twitter.com/search?f=realtime&q=%23sdc14) |
 | [CocoaConf Boston](http://cocoaconf.com/boston-2014/home)               | Boston      | 11/14/14 - 11/15/14 | [#cocoaconf](https://twitter.com/search?f=realtime&q=%23cocoaconf) |
 | [Node.vember](http://nodevember.org/)                          | Nashville   | 11/15/14 - 11/16/14 | [#nodevember](https://twitter.com/search?f=realtime&q=%23nodevember) |
 | [Strata](http://strataconf.com/strataeu2014)                   | Barcelona | 11/19/14 - 11/21/14 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf)
