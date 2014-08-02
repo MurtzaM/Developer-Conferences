@@ -45,3 +45,6 @@ This repo tracks developer conferences. To add a conference to this list, please
 | [PyOhio](http://www.pyohio.org/)                        | Columbus, OH        | 07/26/14 - 07/27/14 | [#PyOhio](https://twitter.com/search?f=realtime&q=%23pyohio)         |
 | [TiConf](http://ticonf.org/)                                   | Amsterdam       | 07/28/14 - 07/29/14 | [#ticonf](https://twitter.com/search?f=realtime&q=%23ticonf)         |
 | [API-Craft](http://api-craft.org/)                             | Detroit         | 07/28/14 - 07/30/14 | [#APICraft](https://twitter.com/search?f=realtime&q=%23apicraft)         |
+| [DeveloperWeek](http://seattle.developerweek.com/)             | Seattle         | 07/28/14 - 08/01/14 | [#DevWeek](https://twitter.com/search?f=realtime&q=%23devweek)         |
+| [CascadiaJS](http://2014.cascadiajs.com/)             | Portland, Or         | 07/31/14 - 08/01/14 | [#CascadiaJS](https://twitter.com/search?f=realtime&q=%23cascadiajs)         |
+
