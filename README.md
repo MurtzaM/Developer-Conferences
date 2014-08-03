@@ -7,7 +7,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 
 | Conference Name                                                | Location        | Date                  | Hash Tag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
-| [Burlington Ruby](http://burlingtonrubyconference.com/)             | Burlington, VT         | 08/02/14 - 08/03/14 | [#btvruby](https://twitter.com/search?f=realtime&q=%23btvruby)         |
+| [Airconf](http://www.airpair.com/airconf2014)                    | G+ Hangout   | 08/04/14 - 08/31/14 | [#airconf](https://twitter.com/search?f=realtime&q=%23airconf)         |
 | [Distill](https://distill.engineyard.com/)                     | San Francisco   | 08/07/14 - 08/08/14 | [#distill14](https://twitter.com/search?f=realtime&q=%23distill14)         |
 | [Velocity China](http://velocity.oreilly.com.cn/2014/)         | Beijing         | 08/12/14 - 08/13/14 | [#velocityconf](https://twitter.com/search?f=realtime&q=%23velocityconf)         |
 | [Steel City Ruby](http://www.steelcityruby.org/)               | Pittsburgh   | 08/15/14 - 08/16/14 | [#steelcityruby](https://twitter.com/search?f=realtime&q=%23steelcityruby)         |
