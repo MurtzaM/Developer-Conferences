@@ -43,6 +43,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Splunk .conf2014](http://conf.splunk.com/)                           | Las Vegas       | 10/06/14 - 10/09/14 | [#splunkconf](https://twitter.com/search?f=realtime&q=%23splunkconf)
 | [IBM Enterprise2014](goo.gl/2VvbQd)                            | Las Vegas       | 10/06/14 - 10/10/14 | [#IBMEnterprise](https://twitter.com/search?f=realtime&q=%23ibmenterprise)
 | [Visual Studio Live!](http://vslive.com/events/washingtondc-2014/home.aspx)  | Washington, DC         | 10/06/14 - 10/09/14 | [#VSLive](https://twitter.com/search?f=realtime&q=%23vslive)         |
+| [Xamarin Evolve](https://evolve.xamarin.com/)  | Atlanta         | 10/06/14 - 10/10/14 | [#XamarinEvolve](https://twitter.com/search?f=realtime&q=%23XamarinEvolve)         |
 | [FutureStack (New Relic)](http://futurestack.io/)                           | San Francisco       | 10/08/14 - 10/09/14 | [#futurestack](https://twitter.com/search?f=realtime&q=%23futurestack)
 | [Dreamforce](http://www.salesforce.com/dreamforce/DF14/)       | San Francisco   | 10/13/14 - 10/16/14 | [#df14](https://twitter.com/search?f=realtime&q=%23df14)
 | [Strata + Hadoop World](http://strataconf.com/stratany2014)       | New York   | 10/15/14 - 10/17/14 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf), [#HadoopWorld](https://twitter.com/search?f=realtime&q=%23hadoopworld)
