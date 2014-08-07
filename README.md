@@ -61,6 +61,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [OpenStack Summit](https://www.openstack.org/summit/openstack-paris-summit-2014/)  | Paris   | 11/03/14 - 11/07/14 | [#OpenStack](https://twitter.com/search?f=realtime&q=%23OpenStack) |
 | [Cloud Expo](http://www.cloudcomputingexpo.com/)               | Santa Clara     | 11/04/14 - 11/06/14 | [#CloudExpo](https://twitter.com/search?f=realtime&q=%23CloudExpo) |
 | [GOTO Berlin](http://gotocon.com/berlin-2014)                  | Berlin          | 11/05/14 - 11/07/14 | [#gotober](https://twitter.com/search?f=realtime&q=%23gotober) |
+| [True North PHP](http://truenorthphp.ca/)                      | Toronto         | 11/06/14 - 11/08/14 | [#tnphp](https://twitter.com/search?f=realtime&q=%23tnphp) |
 | [AWS re:Invent](https://reinvent.awsevents.com/)               | Las Vegas       | 11/11/14 - 11/14/14 | [#AWSreInvent](https://twitter.com/search?f=realtime&q=%23awsreinvent) |
 | [Samsung Developer](http://samsungdevcon.com/)                 | San Francisco       | 11/11/14 - 11/13/14 | [#SDC14](https://twitter.com/search?f=realtime&q=%23sdc14) |
 | [CocoaConf Boston](http://cocoaconf.com/boston-2014/home)               | Boston      | 11/14/14 - 11/15/14 | [#cocoaconf](https://twitter.com/search?f=realtime&q=%23cocoaconf) |
