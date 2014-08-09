@@ -73,6 +73,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [GWT.create](http://gwtcreate.com/)                            | Munich | 01/27/15 - 01/28/15 | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)
 | [dotSwift](http://www.dotswift.io/)                     | Paris   | 02/06/2015          | [#dotswift](https://twitter.com/search?f=realtime&q=%23dotswift)
 | [Strata](http://strataconf.com/strata2015)                     | San Jose | 02/18/15 - 02/20/15 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf)
+| [Re.Work Internet of Things](https://www.re-work.co/events/internet-of-things-london) | London       | 03/12/15 - 03/13/15 | [#IOT2015](https://twitter.com/search?f=realtime&q=%23iot2015) |
 | [SXSW](http://sxsw.com/)                                       | Austin          | 03/13/15 - 03/17/15 | [#SXSW](https://twitter.com/search?f=realtime&q=%23sxsw)
 | [Magento Imagine](http://www.imagineecommerce.com/)            | Las Vegas          | 04/20/15 - 04/22/15 | [#MagentoImagine](https://twitter.com/search?f=realtime&q=%23MagentoImagine)
 | [RailsConf](http://www.railsconf.com/)            | Atlanta          | 04/22/15 - 04/25/15 | [#RailsConf](https://twitter.com/search?f=realtime&q=%23RailsConf)
