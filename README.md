@@ -47,6 +47,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [FutureStack (New Relic)](http://futurestack.io/)                           | San Francisco       | 10/08/14 - 10/09/14 | [#futurestack](https://twitter.com/search?f=realtime&q=%23futurestack)
 | [Dreamforce](http://www.salesforce.com/dreamforce/DF14/)       | San Francisco   | 10/13/14 - 10/16/14 | [#df14](https://twitter.com/search?f=realtime&q=%23df14)
 | [Strata + Hadoop World](http://strataconf.com/stratany2014)       | New York   | 10/15/14 - 10/17/14 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf), [#HadoopWorld](https://twitter.com/search?f=realtime&q=%23hadoopworld)
+| [Connect.js](http://www.connect-js.com/)                          | Atlanta   | 10/17/14 - 10/18/14 | [#connectjs](https://twitter.com/search?f=realtime&q=%23connectjs)
 | [HTML5DevConf](http://html5devconf.com/)                       | San Francisco   | 10/20/14 - 10/21/14 | [#html5devconf](https://twitter.com/search?f=realtime&q=%23html5devconf)
 | [nginx.conf](http://nginx.com/nginxconf)                       | San Francisco   | 10/20/14 - 10/22/14 | [#nginxconf](https://twitter.com/search?f=realtime&q=%23nginxconf)
 | [FullStack](https://skillsmatter.com/conferences/6361-fullstack) | London  | 10/23/14 - 10/24/14 | [#FullStack](https://twitter.com/search?f=realtime&q=%23FullStack)
