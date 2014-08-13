@@ -14,6 +14,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [DEVLINK](http://www.devlink.net/)                             | Chattanooga, TN | 08/27/14 - 08/29/14 | [#devlink](https://twitter.com/search?f=realtime&q=%23devlink)         |
 | [BoxWorks](http://boxworks2014.com/)                           | San Francisco         | 09/02/14 - 09/04/14 | [#BoxWorks](https://twitter.com/search?f=realtime&q=%23BoxWorks)         |
 | [WindyCityRails](http://www.windycityrails.org/)              | Chicago         | 09/04/14 - 09/05/14 | [#WindyCityRails](https://twitter.com/search?f=realtime&q=%23WindyCityRails)         |
+| [CppCon](http://cppcon.org/)                                  | Bellevue, WA     | 09/07/14 - 09/12/14 | [#CppCon](https://twitter.com/search?f=realtime&q=%23CppCon)         |
 | [I Love APIs](https://pages.apigee.com/i-love-apis-2014.html)  | San Francisco   | 09/08/14 - 09/10/14 | [#iloveapis](https://twitter.com/search?f=realtime&q=%23iloveapis)         |
 | [Atlassian Summit](https://summit.atlassian.com/)              | San Jose   | 09/09/14 - 09/11/14 | [#Summit_2014](https://twitter.com/search?f=realtime&q=%23Summit_2014)         |
 | [SpringOne 2GX](http://springone2gx.com/)                      | Dallas          | 09/08/14 - 09/11/14 | [#SpringOne](https://twitter.com/search?f=realtime&q=%23springone)         |
