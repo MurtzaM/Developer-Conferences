@@ -49,3 +49,4 @@ This repo tracks developer conferences. To add a conference to this list, please
 | [CascadiaJS](http://2014.cascadiajs.com/)             | Portland, Or         | 07/31/14 - 08/01/14 | [#CascadiaJS](https://twitter.com/search?f=realtime&q=%23cascadiajs)         |
 | [Burlington Ruby](http://burlingtonrubyconference.com/)             | Burlington, VT         | 08/02/14 - 08/03/14 | [#btvruby](https://twitter.com/search?f=realtime&q=%23btvruby)         |
 | [Distill](https://distill.engineyard.com/)                     | San Francisco   | 08/07/14 - 08/08/14 | [#distill14](https://twitter.com/search?f=realtime&q=%23distill14)         |
+| [Velocity China](http://velocity.oreilly.com.cn/2014/)         | Beijing         | 08/12/14 - 08/13/14 | [#velocityconf](https://twitter.com/search?f=realtime&q=%23velocityconf)         |
