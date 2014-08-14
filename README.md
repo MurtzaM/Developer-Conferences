@@ -12,6 +12,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [PyGotham](http://pygotham.org/)                               | New York, NY | 08/16/14 - 08/17/14 | [#pygotham](https://twitter.com/search?f=realtime&q=%23pygotham)                    |
 | [Visual Studio Live!](http://vslive.com/events/redmond-2014/home.aspx)  | Redmond, WA         | 08/18/14 - 08/22/14 | [#VSLive](https://twitter.com/search?f=realtime&q=%23vslive)         |
 | [DEVLINK](http://www.devlink.net/)                             | Chattanooga, TN | 08/27/14 - 08/29/14 | [#devlink](https://twitter.com/search?f=realtime&q=%23devlink)         |
+| [DjanoCon](http://www.djangocon.us/)                           | Portland | 09/02/14 - 09/04/14 | [#DjangoCon](https://twitter.com/search?f=realtime&q=%23djangocon)         |
 | [BoxWorks](http://boxworks2014.com/)                           | San Francisco         | 09/02/14 - 09/04/14 | [#BoxWorks](https://twitter.com/search?f=realtime&q=%23BoxWorks)         |
 | [WindyCityRails](http://www.windycityrails.org/)              | Chicago         | 09/04/14 - 09/05/14 | [#WindyCityRails](https://twitter.com/search?f=realtime&q=%23WindyCityRails)         |
 | [CppCon](http://cppcon.org/)                                  | Bellevue, WA     | 09/07/14 - 09/12/14 | [#CppCon](https://twitter.com/search?f=realtime&q=%23CppCon)         |
