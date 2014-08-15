@@ -78,6 +78,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Strata](http://strataconf.com/strata2015)                     | San Jose | 02/18/15 - 02/20/15 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf)
 | [Re.Work Internet of Things](https://www.re-work.co/events/internet-of-things-london) | London       | 03/12/15 - 03/13/15 | [#IOT2015](https://twitter.com/search?f=realtime&q=%23iot2015) |
 | [SXSW](http://sxsw.com/)                                       | Austin          | 03/13/15 - 03/17/15 | [#SXSW](https://twitter.com/search?f=realtime&q=%23sxsw)
+| [PyCon](https://us.pycon.org/2015/)                            | Montreal          | 04/08/15 - 04/16/15 | [#PyCon](https://twitter.com/search?f=realtime&q=%23pycon)
 | [Magento Imagine](http://www.imagineecommerce.com/)            | Las Vegas          | 04/20/15 - 04/22/15 | [#MagentoImagine](https://twitter.com/search?f=realtime&q=%23MagentoImagine)
 | [RailsConf](http://www.railsconf.com/)            | Atlanta          | 04/22/15 - 04/25/15 | [#RailsConf](https://twitter.com/search?f=realtime&q=%23RailsConf)
 | [Facebook F8](https://www.facebook.com/f8)                     | San Francisco   | 05/05/2015          | [#f8](https://twitter.com/search?f=realtime&q=%23f8)
