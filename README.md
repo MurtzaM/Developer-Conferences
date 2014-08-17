@@ -8,8 +8,6 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | Conference Name                                                | Location        | Date                  | Hash Tag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
 | [Airconf](http://www.airpair.com/airconf2014)                    | G+ Hangout   | 08/04/14 - 08/31/14 | [#airconf](https://twitter.com/search?f=realtime&q=%23airconf)         |
-| [Steel City Ruby](http://www.steelcityruby.org/)               | Pittsburgh   | 08/15/14 - 08/16/14 | [#steelcityruby](https://twitter.com/search?f=realtime&q=%23steelcityruby)         |
-| [PyGotham](http://pygotham.org/)                               | New York, NY | 08/16/14 - 08/17/14 | [#pygotham](https://twitter.com/search?f=realtime&q=%23pygotham)                    |
 | [Visual Studio Live!](http://vslive.com/events/redmond-2014/home.aspx)  | Redmond, WA         | 08/18/14 - 08/22/14 | [#VSLive](https://twitter.com/search?f=realtime&q=%23vslive)         |
 | [DEVLINK](http://www.devlink.net/)                             | Chattanooga, TN | 08/27/14 - 08/29/14 | [#devlink](https://twitter.com/search?f=realtime&q=%23devlink)         |
 | [DjanoCon](http://www.djangocon.us/)                           | Portland | 09/02/14 - 09/04/14 | [#DjangoCon](https://twitter.com/search?f=realtime&q=%23djangocon)         |
