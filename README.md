@@ -23,6 +23,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Intel IDF14](http://www.intel.com/content/www/us/en/intel-developer-forum-idf/san-francisco/2014/idf-2014-san-francisco.html) | San Francisco   | 09/09/14 - 09/11/14 | [#IDF14](https://twitter.com/search?f=realtime&q=%23idf14)
 | [Cassandra Summit](http://goo.gl/n4L6YT)                       | San Francisco         | 09/10/14 - 09/11/14 | [#CassandraSummit](https://twitter.com/search?f=realtime&q=%23CassandraSummit)         |
 | [IT/Dev Connections](http://goo.gl/4kF2Oc)                     | Las Vegas             | 09/15/14 - 09/19/14 | [#ITdev](https://twitter.com/search?f=realtime&q=%23ITdev)         |
+| [Business of Software](http://businessofsoftware.org/)         | Boston             | 09/15/14 - 09/17/14 | [#BoS2014](https://twitter.com/search?f=realtime&q=%23BoS2014)         |
 | [API World](http://apiworld.co/)                               | San Francisco   | 09/16/14 - 09/17/14 | [#APIWorld](https://twitter.com/search?f=realtime&q=%23apiworld)
 | [Strange Loop](https://thestrangeloop.com/)                    | St. Louis       | 09/17/14 - 09/19/14 |[#strangeloop](https://twitter.com/search?f=realtime&q=%23strangeloop)
 | [Uplinq](http://www.qualcomm.com/uplinq)                       | San Francisco   | 09/18/14 - 09/19/14 | [#uplinq](https://twitter.com/search?f=realtime&q=%23uplinq)
