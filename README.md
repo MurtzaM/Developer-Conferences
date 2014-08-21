@@ -52,6 +52,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [HTML5DevConf](http://html5devconf.com/)                       | San Francisco   | 10/20/14 - 10/21/14 | [#html5devconf](https://twitter.com/search?f=realtime&q=%23html5devconf)
 | [nginx.conf](http://nginx.com/nginxconf)                       | San Francisco   | 10/20/14 - 10/22/14 | [#nginxconf](https://twitter.com/search?f=realtime&q=%23nginxconf)
 | [FullStack](https://skillsmatter.com/conferences/6361-fullstack) | London  | 10/23/14 - 10/24/14 | [#FullStack](https://twitter.com/search?f=realtime&q=%23FullStack)
+| [Empire Node](http://empirenode.org/)                          | New York  | 10/27/14 | [#empirenode](https://twitter.com/search?f=realtime&q=%23empirenode)
 | [GGDevCon](http://www.ggdevcon.com/)                           | Burlingame, CA  | 10/27/14 - 10/28/14 | [#GGDevCon](https://twitter.com/search?f=realtime&q=%23GGDevCon)
 | [Future of Web Apps](https://futureofwebapps.com/boston-2014/) | Boston          | 10/27/14 - 10/29/14 | [#FOWA](https://twitter.com/search?f=realtime&q=%23fowa)
 | [Google Test Automation](https://developers.google.com/google-test-automation-conference/2014/) | Kirkland, WA  | 10/28/14 - 10/29/14 | [#GTAC2014](https://twitter.com/search?f=realtime&q=%23GTAC2014)
