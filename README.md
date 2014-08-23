@@ -72,6 +72,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [RobotsConf](http://2014.robotsconf.com/)                      | Jacksonville, FL | 12/06/14 - 12/07/14 | [#Robotsconf](https://twitter.com/search?f=realtime&q=%23Robotsconf)
 | [Gartner Application Architecture](http://goo.gl/OqrLjt)              | Las Vegas        | 12/08/14 - 12/10/14 | [#gartneraadi](https://twitter.com/search?f=realtime&q=%23gartneraadi)
 | [TNW](http://thenextweb.com/conference/usa/)                   | New York       | 12/10/14 | [#TNWUSA](https://twitter.com/search?f=realtime&q=%23tnwusa)
+| [linx.conf.au](http://linux.conf.au/)                          | Auckland | 01/12/15 - 01/16/15 | [#linxconfau](https://twitter.com/search?f=realtime&q=%23linxconfau)
 | [GWT.create](http://gwtcreate.com/)                            | Mountain View, CA | 01/22/15 - 01/23/15 | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)
 | [GWT.create](http://gwtcreate.com/)                            | Munich | 01/27/15 - 01/28/15 | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)
 | [dotSwift](http://www.dotswift.io/)                     | Paris   | 02/06/2015          | [#dotswift](https://twitter.com/search?f=realtime&q=%23dotswift)
