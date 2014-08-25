@@ -68,6 +68,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Samsung Developer](http://samsungdevcon.com/)                 | San Francisco       | 11/11/14 - 11/13/14 | [#SDC14](https://twitter.com/search?f=realtime&q=%23sdc14) |
 | [CocoaConf Boston](http://cocoaconf.com/boston-2014/home)               | Boston      | 11/14/14 - 11/15/14 | [#cocoaconf](https://twitter.com/search?f=realtime&q=%23cocoaconf) |
 | [Node.vember](http://nodevember.org/)                          | Nashville   | 11/15/14 - 11/16/14 | [#nodevember](https://twitter.com/search?f=realtime&q=%23nodevember) |
+| [Rubyconf](http://rubyconf.org/)                          | San Diego   | 11/17/14 - 11/19/14 | [#rubyconf](https://twitter.com/search?f=realtime&q=%23rubyconf) |
 | [Strata](http://strataconf.com/strataeu2014)                   | Barcelona | 11/19/14 - 11/21/14 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf)
 | [IoT World Forum](http://iotinternetofthingsconference.com/)   | London | 11/25/14 - 11/26/14 | [#iotconferences](https://twitter.com/search?f=realtime&q=%23iotconferences)
 | [RobotsConf](http://2014.robotsconf.com/)                      | Jacksonville, FL | 12/06/14 - 12/07/14 | [#Robotsconf](https://twitter.com/search?f=realtime&q=%23Robotsconf)
