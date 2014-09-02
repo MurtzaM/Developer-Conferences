@@ -7,8 +7,6 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 
 | Conference Name                                                | Location        | Date                  | Hash Tag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
-| [Airconf](http://www.airpair.com/airconf2014)                    | G+ Hangout   | 08/04/14 - 08/31/14 | [#airconf](https://twitter.com/search?f=realtime&q=%23airconf)         |
-| [DEVLINK](http://www.devlink.net/)                             | Chattanooga, TN | 08/27/14 - 08/29/14 | [#devlink](https://twitter.com/search?f=realtime&q=%23devlink)         |
 | [DjanoCon](http://www.djangocon.us/)                           | Portland | 09/02/14 - 09/04/14 | [#DjangoCon](https://twitter.com/search?f=realtime&q=%23djangocon)         |
 | [BoxWorks](http://boxworks2014.com/)                           | San Francisco         | 09/02/14 - 09/04/14 | [#BoxWorks](https://twitter.com/search?f=realtime&q=%23BoxWorks)         |
 | [WindyCityRails](http://www.windycityrails.org/)              | Chicago         | 09/04/14 - 09/05/14 | [#WindyCityRails](https://twitter.com/search?f=realtime&q=%23WindyCityRails)         |
