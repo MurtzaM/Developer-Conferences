@@ -7,10 +7,6 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 
 | Conference Name                                                | Location        | Date                  | Hash Tag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
-| [DjanoCon](http://www.djangocon.us/)                           | Portland | 09/02/14 - 09/04/14 | [#DjangoCon](https://twitter.com/search?f=realtime&q=%23djangocon)         |
-| [BoxWorks](http://boxworks2014.com/)                           | San Francisco         | 09/02/14 - 09/04/14 | [#BoxWorks](https://twitter.com/search?f=realtime&q=%23BoxWorks)         |
-| [WindyCityRails](http://www.windycityrails.org/)              | Chicago         | 09/04/14 - 09/05/14 | [#WindyCityRails](https://twitter.com/search?f=realtime&q=%23WindyCityRails)         |
-| [Endpoint](http://endpointcon.com/)                            | Amsterdam         | 09/05/14 | [#Endpointcon](https://twitter.com/search?f=realtime&q=%23Endpointcon)         |
 | [CppCon](http://cppcon.org/)                                  | Bellevue, WA     | 09/07/14 - 09/12/14 | [#CppCon](https://twitter.com/search?f=realtime&q=%23CppCon)         |
 | [I Love APIs](https://pages.apigee.com/i-love-apis-2014.html)  | San Francisco   | 09/08/14 - 09/10/14 | [#iloveapis](https://twitter.com/search?f=realtime&q=%23iloveapis)         |
 | [Atlassian Summit](https://summit.atlassian.com/)              | San Jose   | 09/09/14 - 09/11/14 | [#Summit_2014](https://twitter.com/search?f=realtime&q=%23Summit_2014)         |
