@@ -7,21 +7,6 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 
 | Conference Name                                                | Location        | Date                  | Hash Tag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
-| [IT/Dev Connections](http://goo.gl/4kF2Oc)                     | Las Vegas             | 09/15/14 - 09/19/14 | [#ITdev](https://twitter.com/search?f=realtime&q=%23ITdev)         |
-| [Business of Software](http://businessofsoftware.org/)         | Boston             | 09/15/14 - 09/17/14 | [#BoS2014](https://twitter.com/search?f=realtime&q=%23BoS2014)         |
-| [API World](http://apiworld.co/)                               | San Francisco   | 09/16/14 - 09/17/14 | [#APIWorld](https://twitter.com/search?f=realtime&q=%23apiworld)
-| [Strange Loop](https://thestrangeloop.com/)                    | St. Louis       | 09/17/14 - 09/19/14 |[#strangeloop](https://twitter.com/search?f=realtime&q=%23strangeloop)
-| [Uplinq](http://www.qualcomm.com/uplinq)                       | San Francisco   | 09/18/14 - 09/19/14 | [#uplinq](https://twitter.com/search?f=realtime&q=%23uplinq)
-| [Hackference](http://2014.hackference.co.uk/)                       | Birmingham, UK   | 09/19/14 - 09/21/14 | [#Hackference](https://twitter.com/search?f=realtime&q=%23Hackference) 
-| [GoGaRuCo](http://gogaruco.com/)                               | San Francisco         | 09/19/14 - 09/20/14 | [#GoGaRuCo](https://twitter.com/search?f=realtime&q=%23GoGaRuCo)
-| [Oculus Connect](https://www.oculusvr.com/connect/)            | Los Angeles           | 09/19/14 - 09/20/14 | [#OculusConnect](https://twitter.com/search?f=realtime&q=%23OculusConnect)
-| [PuppetConf](http://2014.puppetconf.com/)                      | San Francisco         | 09/20/14 - 09/24/14 | [#PuppetConf](https://twitter.com/search?f=realtime&q=%23PuppetConf)
-| [Droidcon](http://fr.droidcon.com/2014)                        | Paris          | 09/22/14 - 09/23/14 | [#Droidconfr](https://twitter.com/search?f=realtime&q=%23droidconfr) 
-| [Designer of Things](http://www.designersofthings.com/sanfrancisco/) | San Francisco         | 09/23/14 - 09/24/14 | [#dothingscon](https://twitter.com/search?f=realtime&q=%23dothingscon)
-| [GOTO Copenhagen](http://gotocon.com/cph-2014)                 | Copenhagen      | 09/23/14 - 09/26/14 | [#gotocph](https://twitter.com/search?f=realtime&q=%23gotocph)
-| [API Strategy](http://apistrategyconference.com/)              | Chicago         | 09/24/14 - 09/25/14 | [#apistrat](https://twitter.com/search?f=realtime&q=%23apistrat)
-| [REST FEST](http://www.restfest.org/)                          | Greenville, SC  | 09/25/14 - 09/27/14 | [#restfest](https://twitter.com/search?f=realtime&q=%23restfest)
-| [xda:devcon](http://xda-devcon.com/)                           | Manchester, UK  | 09/26/14 - 09/28/14 | [#xda](https://twitter.com/search?f=realtime&q=%23xda)
 | [JavaOne](www.oracle.com/javaone/index.html)                           | San Francisco, CA  | 09/28/14 - 10/02/14 | [#javaone](https://twitter.com/search?f=realtime&q=%23javaone)
 | [GOTO Aarhus](http://gotocon.com/aarhus-2014/)                 | Aarhus, Denmark | 09/29/14 - 10/02/14 | [#gotoaar](https://twitter.com/search?f=realtime&q=%23gotoaar)
 | [CukeUp](https://skillsmatter.com/conferences/1881-cukeup-nyc-2014) | New York | 09/30/14 - 10/01/14 | [#cukeup](https://twitter.com/search?f=realtime&q=%23cukeup)
