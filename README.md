@@ -7,17 +7,6 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 
 | Conference Name                                                | Location        | Date                  | Hash Tag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
-| [Splunk .conf2014](http://conf.splunk.com/)                           | Las Vegas       | 10/06/14 - 10/09/14 | [#splunkconf](https://twitter.com/search?f=realtime&q=%23splunkconf)
-| [IBM Enterprise2014](goo.gl/2VvbQd)                            | Las Vegas       | 10/06/14 - 10/10/14 | [#IBMEnterprise](https://twitter.com/search?f=realtime&q=%23ibmenterprise)
-| [Visual Studio Live!](http://vslive.com/events/washingtondc-2014/home.aspx)  | Washington, DC         | 10/06/14 - 10/09/14 | [#VSLive](https://twitter.com/search?f=realtime&q=%23vslive)         |
-| [Xamarin Evolve](https://evolve.xamarin.com/)  | Atlanta         | 10/06/14 - 10/10/14 | [#XamarinEvolve](https://twitter.com/search?f=realtime&q=%23XamarinEvolve)         |
-| [FutureStack (New Relic)](http://futurestack.io/)                           | San Francisco       | 10/08/14 - 10/09/14 | [#futurestack](https://twitter.com/search?f=realtime&q=%23futurestack)
-| [Dreamforce](http://www.salesforce.com/dreamforce/DF14/)       | San Francisco   | 10/13/14 - 10/16/14 | [#df14](https://twitter.com/search?f=realtime&q=%23df14)
-| [Strata + Hadoop World](http://strataconf.com/stratany2014)       | New York   | 10/15/14 - 10/17/14 | [#Strataconf](https://twitter.com/search?f=realtime&q=%23strataconf), [#HadoopWorld](https://twitter.com/search?f=realtime&q=%23hadoopworld)
-| [Connect.js](http://www.connect-js.com/)                          | Atlanta   | 10/17/14 - 10/18/14 | [#connectjs](https://twitter.com/search?f=realtime&q=%23connectjs)
-| [HTML5DevConf](http://html5devconf.com/)                       | San Francisco   | 10/20/14 - 10/21/14 | [#html5devconf](https://twitter.com/search?f=realtime&q=%23html5devconf)
-| [nginx.conf](http://nginx.com/nginxconf)                       | San Francisco   | 10/20/14 - 10/22/14 | [#nginxconf](https://twitter.com/search?f=realtime&q=%23nginxconf)
-| [FullStack](https://skillsmatter.com/conferences/6361-fullstack) | London  | 10/23/14 - 10/24/14 | [#FullStack](https://twitter.com/search?f=realtime&q=%23FullStack)
 | [Empire Node](http://empirenode.org/)                          | New York  | 10/27/14 | [#empirenode](https://twitter.com/search?f=realtime&q=%23empirenode)
 | [GGDevCon](http://www.ggdevcon.com/)                           | Burlingame, CA  | 10/27/14 - 10/28/14 | [#GGDevCon](https://twitter.com/search?f=realtime&q=%23GGDevCon)
 | [Future of Web Apps](https://futureofwebapps.com/boston-2014/) | Boston          | 10/27/14 - 10/29/14 | [#FOWA](https://twitter.com/search?f=realtime&q=%23fowa)
