@@ -7,18 +7,6 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 
 | Conference Name                                                | Location        | Date                  | Hash Tag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
-| [Empire Node](http://empirenode.org/)                          | New York  | 10/27/14 | [#empirenode](https://twitter.com/search?f=realtime&q=%23empirenode)
-| [GGDevCon](http://www.ggdevcon.com/)                           | Burlingame, CA  | 10/27/14 - 10/28/14 | [#GGDevCon](https://twitter.com/search?f=realtime&q=%23GGDevCon)
-| [Future of Web Apps](https://futureofwebapps.com/boston-2014/) | Boston          | 10/27/14 - 10/29/14 | [#FOWA](https://twitter.com/search?f=realtime&q=%23fowa)
-| [Google Test Automation](https://developers.google.com/google-test-automation-conference/2014/) | Kirkland, WA  | 10/28/14 - 10/29/14 | [#GTAC2014](https://twitter.com/search?f=realtime&q=%23GTAC2014)
-| [Polyconf](http://polyconf.com/)                               | Poznan, Poland  | 10/30/14 - 10/31/14 | [#polyconf](https://twitter.com/search?f=realtime&q=%23polyconf)
-| [Droidcon](http://uk.droidcon.com/2014/)                       | London          | 10/30/14 - 10/31/14 | [#droidconuk](https://twitter.com/search?f=realtime&q=%23droidconuk)
-| [GDC Next](http://www.gdcnext.com/)                            | Los Angeles     | 11/03/14 - 11/04/14 | [#GDCNext](https://twitter.com/search?f=realtime&q=%23gdcnext) |
-| [QCon SF](http://qconsf.com/)                                  | San Francisco   | 11/03/14 - 11/05/14 | [#qconsf](https://twitter.com/search?f=realtime&q=%23qconsf) |
-| [Internationalization and Unicode Conference](http://www.cloudcomputingexpo.com/) | Santa Clara     | 11/03/14 - 11/05/14 | [#IUC](https://twitter.com/search?f=realtime&q=%23IUC) |
-| [OpenStack Summit](https://www.openstack.org/summit/openstack-paris-summit-2014/)  | Paris   | 11/03/14 - 11/07/14 | [#OpenStack](https://twitter.com/search?f=realtime&q=%23OpenStack) |
-| [Cloud Expo](http://www.cloudcomputingexpo.com/)               | Santa Clara     | 11/04/14 - 11/06/14 | [#CloudExpo](https://twitter.com/search?f=realtime&q=%23CloudExpo) |
-| [GOTO Berlin](http://gotocon.com/berlin-2014)                  | Berlin          | 11/05/14 - 11/07/14 | [#gotober](https://twitter.com/search?f=realtime&q=%23gotober) |
 | [True North PHP](http://truenorthphp.ca/)                      | Toronto         | 11/06/14 - 11/08/14 | [#tnphp](https://twitter.com/search?f=realtime&q=%23tnphp) |
 | [AWS re:Invent](https://reinvent.awsevents.com/)               | Las Vegas       | 11/11/14 - 11/14/14 | [#AWSreInvent](https://twitter.com/search?f=realtime&q=%23awsreinvent) |
 | [Samsung Developer](http://samsungdevcon.com/)                 | San Francisco       | 11/11/14 - 11/13/14 | [#SDC14](https://twitter.com/search?f=realtime&q=%23sdc14) |
