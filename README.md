@@ -18,6 +18,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [Re.Work Internet of Things](https://www.re-work.co/events/internet-of-things-london) | London       | 03/12/15 - 03/13/15 | [#IOT2015](https://twitter.com/search?f=realtime&q=%23iot2015) |
 | [SXSW](http://sxsw.com/)                                       | Austin          | 03/13/15 - 03/17/15 | [#SXSW](https://twitter.com/search?f=realtime&q=%23sxsw)
 | [PyCon](https://us.pycon.org/2015/)                            | Montreal          | 04/08/15 - 04/16/15 | [#PyCon](https://twitter.com/search?f=realtime&q=%23pycon)
+| [Microsoft Build](http://www.buildwindows.com/)  | San Francisco          | 04/29/15 - 05/01/15 | [#bldwin](https://twitter.com/search?f=realtime&q=%23bldwin)
 | [Magento Imagine](http://www.imagineecommerce.com/)            | Las Vegas          | 04/20/15 - 04/22/15 | [#MagentoImagine](https://twitter.com/search?f=realtime&q=%23MagentoImagine)
 | [RailsConf](http://www.railsconf.com/)            | Atlanta          | 04/22/15 - 04/25/15 | [#RailsConf](https://twitter.com/search?f=realtime&q=%23RailsConf)
 | [TNW Europe](http://thenextweb.com/conference/europe/)  | Amsterdam          | 04/23/15 - 04/24/15 | [#thenextweb](https://twitter.com/search?f=realtime&q=%23thenextweb)
