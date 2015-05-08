@@ -7,7 +7,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 
 | Conference Name                                                | Location        | Date                  | Hash Tag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
-| [linx.conf.au](http://linux.conf.au/)                          | Auckland | 01/12/15 - 01/16/15 | [#linxconfau](https://twitter.com/search?f=realtime&q=%23linxconfau)
+| [linux.conf.au](http://linux.conf.au/)                          | Auckland | 01/12/15 - 01/16/15 | [#linxconfau](https://twitter.com/search?f=realtime&q=%23linxconfau)
 | [GWT.create](http://gwtcreate.com/)                            | Mountain View, CA | 01/22/15 - 01/23/15 | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)
 | [GWT.create](http://gwtcreate.com/)                            | Munich | 01/27/15 - 01/28/15 | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)
 | [dotSwift](http://www.dotswift.io/)                     | Paris   | 02/06/2015          | [#dotswift](https://twitter.com/search?f=realtime&q=%23dotswift)
