@@ -21,4 +21,5 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [TNW Europe](http://thenextweb.com/conference/europe/)  | Amsterdam          | 04/23/15 - 04/24/15 | [#thenextweb](https://twitter.com/search?f=realtime&q=%23thenextweb)
 | [Facebook F8](https://www.facebook.com/f8)                     | San Francisco   | 05/05/2015          | [#f8](https://twitter.com/search?f=realtime&q=%23f8)
 | [Google I/O](https://www.google.com/events/io)  | San Francisco          | 06/24/15 - 04/26/15 | [#googleio](https://twitter.com/search?f=realtime&q=%23googleio)
+| [Texas Linux Fest](http://www.texaslinuxfest.org/)                     | Austin | 08/21/15 - 08/22/15 | [#txlf](https://twitter.com/search?f=realtime&q=%23txlf)
 | [SCALE](http://www.socallinuxexpo.org/)                     | Los Angeles | 01/21/16 - 01/24/16 | [#scale14x](https://twitter.com/search?f=realtime&q=%23scale14x)
