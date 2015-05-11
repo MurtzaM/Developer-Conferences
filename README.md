@@ -7,7 +7,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 
 | Conference Name                                                | Location        | Date                  | Hash Tag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
-| [linx.conf.au](http://linux.conf.au/)                          | Auckland | 01/12/15 - 01/16/15 | [#linxconfau](https://twitter.com/search?f=realtime&q=%23linxconfau)
+| [linux.conf.au](http://linux.conf.au/)                          | Auckland | 01/12/15 - 01/16/15 | [#linxconfau](https://twitter.com/search?f=realtime&q=%23linxconfau)
 | [GWT.create](http://gwtcreate.com/)                            | Mountain View, CA | 01/22/15 - 01/23/15 | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)
 | [GWT.create](http://gwtcreate.com/)                            | Munich | 01/27/15 - 01/28/15 | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)
 | [dotSwift](http://www.dotswift.io/)                     | Paris   | 02/06/2015          | [#dotswift](https://twitter.com/search?f=realtime&q=%23dotswift)
@@ -20,4 +20,6 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [RailsConf](http://www.railsconf.com/)            | Atlanta          | 04/22/15 - 04/25/15 | [#RailsConf](https://twitter.com/search?f=realtime&q=%23RailsConf)
 | [TNW Europe](http://thenextweb.com/conference/europe/)  | Amsterdam          | 04/23/15 - 04/24/15 | [#thenextweb](https://twitter.com/search?f=realtime&q=%23thenextweb)
 | [Facebook F8](https://www.facebook.com/f8)                     | San Francisco   | 05/05/2015          | [#f8](https://twitter.com/search?f=realtime&q=%23f8)
-| [Google I/O](https://www.google.com/events/io)  | San Francisco          | 06/24/15 - 04/26/15 | [#googleio](https://twitter.com/search?f=realtime&q=%23googleio)
+| [Google I/O](https://www.google.com/events/io)  | San Francisco          | 05/28/15 - 05/29/15 | [#googleio](https://twitter.com/search?f=realtime&q=%23googleio)
+| [Texas Linux Fest](http://www.texaslinuxfest.org/)                     | Austin | 08/21/15 - 08/22/15 | [#txlf](https://twitter.com/search?f=realtime&q=%23txlf)
+| [SCALE](http://www.socallinuxexpo.org/)                     | Los Angeles | 01/21/16 - 01/24/16 | [#scale14x](https://twitter.com/search?f=realtime&q=%23scale14x)
