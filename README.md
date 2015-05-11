@@ -21,3 +21,4 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [TNW Europe](http://thenextweb.com/conference/europe/)  | Amsterdam          | 04/23/15 - 04/24/15 | [#thenextweb](https://twitter.com/search?f=realtime&q=%23thenextweb)
 | [Facebook F8](https://www.facebook.com/f8)                     | San Francisco   | 05/05/2015          | [#f8](https://twitter.com/search?f=realtime&q=%23f8)
 | [Google I/O](https://www.google.com/events/io)  | San Francisco          | 06/24/15 - 04/26/15 | [#googleio](https://twitter.com/search?f=realtime&q=%23googleio)
+| [PyGotham](https://pygotham.org/2015/)                         | New York, NY    | 08/15/15 - 08/16/15 | [#pygotham](https://twitter.com/search?f=realtime&q=%23pygotham)
