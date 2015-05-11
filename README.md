@@ -20,4 +20,4 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 | [RailsConf](http://www.railsconf.com/)            | Atlanta          | 04/22/15 - 04/25/15 | [#RailsConf](https://twitter.com/search?f=realtime&q=%23RailsConf)
 | [TNW Europe](http://thenextweb.com/conference/europe/)  | Amsterdam          | 04/23/15 - 04/24/15 | [#thenextweb](https://twitter.com/search?f=realtime&q=%23thenextweb)
 | [Facebook F8](https://www.facebook.com/f8)                     | San Francisco   | 05/05/2015          | [#f8](https://twitter.com/search?f=realtime&q=%23f8)
-| [Google I/O](https://www.google.com/events/io)  | San Francisco          | 06/24/15 - 04/26/15 | [#googleio](https://twitter.com/search?f=realtime&q=%23googleio)
+| [Google I/O](https://www.google.com/events/io2015/)  | San Francisco          | 05/28/15 - 05/29/15 | [#googleio](https://twitter.com/search?f=realtime&q=%23googleio)
