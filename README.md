@@ -7,6 +7,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 
 | Conference Name                                                  | Location        | Start Date             | End Date    | Hash Tag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| :---------: |
+| [ng-conf](http://www.ng-conf.org/)  | Salt Lake City, UT          | 03/05/15 | 03/06/15 | [#ngconf](https://twitter.com/search?f=realtime&q=%23ngconf)
 | [Google I/O](https://www.google.com/events/io2015/)  | San Francisco          | 05/28/15 | 05/29/15 | [#googleio](https://twitter.com/search?f=realtime&q=%23googleio)
 | [Gophercon 2015](http://www.gophercon.com/)  | Denver          | 07/07/15 | 07/10/15 | [#gophercon](https://twitter.com/search?f=realtime&q=%23gophercon)
 [PyGotham](https://pygotham.org/2015/)                         | New York, NY    | 08/15/15 | 08/16/15 | [#pygotham](https://twitter.com/search?f=realtime&q=%23pygotham)
