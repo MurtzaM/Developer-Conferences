@@ -1,7 +1,7 @@
 Upcoming Developer Conferences
 =====================
 
-This repo tracks upcoming developer conferences. To add a conference to this list, please [submit an issue](https://github.com/MurtzaM/Developer-Conferences/issues/new), or fork this repo and submit a pull request. 
+This repo tracks upcoming developer conferences. To add a conference to this list, please [submit an issue](https://github.com/MurtzaM/Developer-Conferences/issues/new), or fork this repo and submit a pull request. When removing past conferences, please add them to `ARCHIVE.md`.
 
 
 
