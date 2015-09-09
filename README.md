@@ -1,13 +1,12 @@
 Upcoming Developer Conferences
 =====================
 
-This repo tracks upcoming developer conferences. To add a conference to this list, please [submit an issue](https://github.com/MurtzaM/Developer-Conferences/issues/new), or fork this repo and submit a pull request. 
+This repo tracks upcoming developer conferences. To add a conference to this list, please [submit an issue](https://github.com/MurtzaM/Developer-Conferences/issues/new), or fork this repo and submit a pull request.
 
 
 
 | Conference Name                                                  | Location        | Start Date             | End Date    | Hash Tag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| :---------: |
-[PyGotham](https://pygotham.org/2015/)                         | New York, NY    | 08/15/15 | 08/16/15 | [#pygotham](https://twitter.com/search?f=realtime&q=%23pygotham)
 | [Texas Linux Fest](http://www.texaslinuxfest.org/)                     | Austin | 08/21/15 | 08/22/15 | [#txlf](https://twitter.com/search?f=realtime&q=%23txlf)
 [dotGo](http://www.dotgo.eu/)  | Paris          | 09/09/15 | 09/11/15 | [#dotGo](https://twitter.com/search?f=realtime&q=%23dotGo)
 [PostgresOpen](https://2015.postgresopen.org/)  | Dallas          | 09/16/15 | 09/18/15 | [#pgopen2015](https://twitter.com/search?f=realtime&q=%23pgopen2015)
