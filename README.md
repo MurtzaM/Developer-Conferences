@@ -7,6 +7,7 @@ This repo tracks upcoming developer conferences. To add a conference to this lis
 
 | Conference Name                                                  | Location        | Start Date             | End Date    | Hash Tag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| :---------: |
+| [Scaleconf Colombia](http://www.scaleconfco.com)                     | Medellin, Colombia | 04/27/18 | 04/28/18 | [#scaleconfco](https://twitter.com/search?q=scaleconfco&src=typd)
 | [Texas Linux Fest](http://www.texaslinuxfest.org/)                     | Austin | 08/21/15 | 08/22/15 | [#txlf](https://twitter.com/search?f=realtime&q=%23txlf)
 [dotGo](http://www.dotgo.eu/)  | Paris          | 09/09/15 | 09/11/15 | [#dotGo](https://twitter.com/search?f=realtime&q=%23dotGo)
 [PostgresOpen](https://2015.postgresopen.org/)  | Dallas          | 09/16/15 | 09/18/15 | [#pgopen2015](https://twitter.com/search?f=realtime&q=%23pgopen2015)
